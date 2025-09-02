@@ -1,0 +1,25 @@
+name: get new posts
+on:
+  workflow_dispatch:
+
+
+jobs:
+  get_posts:
+    name: get new forum posts
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5 
+      with:
+        python-version: '3.13'
+        cache: 'pip' # caching pip dependencies
+    - run: pip install requests bs4 python-dateutil
+    - run: python get_posts.py
+      env: # Or as an environment variable
+        SCRATCH_TOKEN: ${{ secrets.SCRATCH_TOKEN }}
+        STATUS_URL: ${{ secrets.STATUS_URL }}
+        NEW_DATA_URL: ${{ secrets.NEW_DATA_URL }}
+
+permissions:
+  contents: read # access to check out code and install dependencies
