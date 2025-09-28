@@ -5,7 +5,7 @@ SCRAXE,59
 procd,58
 sdmeijer,57
 technoboy10,46
-medians,42
+medians,43
 han614698,41
 hacktronics,41
 BigNate469,41
@@ -32,6 +32,7 @@ mstone326,16
 D-ScratchNinja,16
 myeducate,15
 cadteacher,14
+minniesworld,14
 gdxfor,14
 Crispydogs101,14
 PullJosh,13
@@ -39,7 +40,6 @@ PrincessPanda_test_,13
 pkexe,13
 ScratchDiogoh,13
 kevsterino,13
-minniesworld,13
 SmartCat3,13
 vanyanemer13,13
 5632622roblox,12
@@ -492,6 +492,7 @@ LimeJoinsAgain,3
 BLUDABADI,3
 andis_com2,3
 spidermanLOLL,3
+wecandoittogether,3
 Prettygirlamayah,3
 jake1-226,3
 pikhtierieva770,3
@@ -953,7 +954,6 @@ Yarrow-Kitty,2
 minhduckg0520,2
 NoisyBigEyes,2
 Adriengo,2
-wecandoittogether,2
 RainingCorgis,2
 ImmortalJelly13,2
 CodingwithKayel,2
@@ -997,6 +997,7 @@ EpsilonX,2
 Employeebananaduck,2
 nerjss2012-BFDI,2
 SuperMarioGamemaster,2
+CreatingAnimator,2
 JJROCKER,1
 stevetheipad,1
 sparks,1
@@ -2829,6 +2830,7 @@ Roadrunner3512,1
 tylers-3-account,1
 bannie6,1
 Jamiethepro57,1
+thunder_pheonix101,1
 thebeast0924,1
 Travis_isaSigma,1
 BitOSforGames,1

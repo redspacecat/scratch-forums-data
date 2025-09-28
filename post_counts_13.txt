@@ -53,7 +53,7 @@ capoaira,87
 IL96,83
 Gibom,80
 Atten007,80
-Tunibal_Scratcher,78
+Tunibal_Scratcher,80
 duermesi,76
 -MaVaKue-,75
 epic_fire_ghost,74
@@ -78,7 +78,7 @@ leckerEis,46
 -yoae-,46
 Dadiwiki,45
 Jupiter12786,45
-meercat213,44
+meercat213,45
 THS04,42
 apple-kat,42
 Spaceship210,42
@@ -207,6 +207,8 @@ tiaza,15
 LukasderCrafter,15
 markus_111,15
 NopUS09,15
+Anatoltschki,15
+Nodln21,15
 Philippgromball,14
 forth,14
 ScratchMona,14
@@ -222,7 +224,6 @@ Maus0000,14
 milakatze123,14
 Ramses-1,14
 roblox_gamer2014,14
-Anatoltschki,14
 The_Tee,13
 GHeim,13
 aniolek,13
@@ -259,7 +260,6 @@ ScratcherFletscher,12
 waltninja123,12
 per_gaming,12
 eisjo,12
-Nodln21,12
 Janstand,11
 -Spielprogrammierer,11
 winulatorxd,11
@@ -325,6 +325,7 @@ Ladrivan,9
 Ringli,9
 Fe9Mo12,9
 Klauenschredder,9
+aekc24,9
 gtthome,8
 sanbayon,8
 AnimationsAndClips,8
@@ -2003,6 +2004,7 @@ Jannik2905,1
 DulliLevin,1
 Ferdinand20100106,1
 MineTurte,1
+-ThatOneGuitarist-,1
 -_-ROBLOX_-_,1
 ManuelK90,1
 Gummball6440,1
@@ -2081,3 +2083,4 @@ TB_-_01,1
 Averyforever1,1
 yougowdismine,1
 Player_game122,1
+F-E-J,1

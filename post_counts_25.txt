@@ -757,6 +757,7 @@ zaunep,2
 Madafa_,2
 ertugrulkorkusuz,2
 AliCool_TekrarTekrar,2
+8superlemon8,2
 LiFaytheGoblin,1
 hakanatas,1
 gbugut,1
@@ -1496,3 +1497,5 @@ rizeli53rz,1
 EloshaTR,1
 bilinki,1
 eresman,1
+kemalist_zenci,1
+reik0archive,1

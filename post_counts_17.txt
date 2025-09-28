@@ -114,10 +114,10 @@ m321m,37
 FratelTest,37
 Bowser_PL,37
 hubkiel,36
+BartoloPL,36
 -misiek12345-,35
 Cat-Alex,35
 ColdestRage,35
-BartoloPL,35
 maxlider,35
 Maszek,34
 norbert00,34

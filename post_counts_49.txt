@@ -100,6 +100,7 @@ i_decode_and_code,5
 computer-scratc,5
 -Cubism007-,5
 50_scratch_tabs,5
+ametrine_,5
 blob8108,4
 powercon5,4
 karatebuilderboy,4
@@ -222,6 +223,7 @@ PenguinLover1123,3
 hacktronics,3
 knight128,3
 imdoom,3
+medians,3
 HeHeTeeHeeHee,3
 bazooka-nuke,3
 hockicat29,3
@@ -234,7 +236,6 @@ XxMarcos_,3
 catdogpigduck1234,3
 georgek0,3
 Bananster,3
-ametrine_,3
 ZefunGR,3
 breakfast_for_dinner,3
 scarysailor568,3
@@ -376,6 +377,7 @@ SDDC52510,2
 bobcat0701,2
 Dogshome,2
 gidgetpoodle,2
+undeterminstic,2
 KangaCoder,2
 -EmeraldThunder-,2
 S_R2021,2
@@ -396,7 +398,6 @@ scratchsimpleproject,2
 Verixion,2
 sihan7777777,2
 PyraEthan12,2
-medians,2
 l3itox,2
 Sonictheprogrammer,2
 Sid1409,2
@@ -444,6 +445,7 @@ Euzcom,2
 CuteRobot22,2
 T_cat9000_2,2
 -Syntax01-,2
+AJ9900775,2
 _0xfffrog-,2
 TheOpalofTopaz,2
 zallynotfound,2
@@ -857,7 +859,6 @@ BlackDemonGirl,1
 Mike_1000,1
 sattaking,1
 28klotlucas2,1
-undeterminstic,1
 them__,1
 Juicer7,1
 chalkboardninja5,1
@@ -958,6 +959,7 @@ Scratch--TheCat,1
 2tables,1
 henhenboben,1
 rojam041113,1
+wetogeter,1
 PinkPenguin100,1
 arora_borealis,1
 liamdvd,1
@@ -1007,6 +1009,7 @@ Muffin131313,1
 red-fox-codes,1
 eoeoeoeoeoeoeoeoe,1
 minecrafter4596,1
+NEW_RaffyTheMac,1
 scratch4578887,1
 i_eat_coffee,1
 AxelNoahPolusis,1
@@ -1047,6 +1050,7 @@ BlueyFan75000,1
 7Phyzon,1
 jelte1908,1
 happydog890,1
+GamerDAC,1
 H__4,1
 Pashes1,1
 TheCreatorOfUnTV,1
@@ -1072,6 +1076,7 @@ Nenorzin,1
 GAMESSSSSSSSSZ,1
 AmpElectrecuted,1
 pursuiter,1
+best_of_life,1
 -Kat_Kafe,1
 CapybaraplatypusJPM,1
 Sonictheretake,1
@@ -1083,5 +1088,7 @@ NickFuentesIsCool,1
 sterlingm5,1
 CodeComet6161,1
 D-78,1
+LinkMHE4,1
 Fr0stiNix,1
 Mrtoddmix,1
+rareredx,1

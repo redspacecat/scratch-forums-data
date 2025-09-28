@@ -2,7 +2,7 @@ henrick9,1358
 Fupicat,1294
 AdrielCrafter,547
 kdmuriscratch,339
-PLAYER_H360,262
+PLAYER_H360,263
 ScratchCatDoBem,253
 mimikyuinkling,252
 -Cubism007-,251
@@ -19,7 +19,7 @@ Gato_preto_scratch,107
 vitorreverso,104
 CarlosProg,97
 tatu21,95
-GameEnginner,94
+GameEnginner,95
 caiodantas8909,92
 maisumavez36,87
 tukinho,85
@@ -39,12 +39,12 @@ Dude_Producoes,48
 calango_22_,48
 AndreoliBR,43
 among_troll,43
+MultiverseMikaels,41
 Robottobueso,40
 SamuelLaw7,39
+lolo_0107,39
 cosmicboyoficial0,38
 thos1136,38
-MultiverseMikaels,38
-lolo_0107,38
 MMSequeira,37
 Miou4,36
 LOAGBR,36
@@ -55,11 +55,11 @@ gui7814,34
 MaryMel10,34
 murlohhhhu,33
 Lucas28042014,32
+sillybillyyourself,32
 LeoLegal,29
 mcqueen95guianimoby,29
 gatorgb2808,29
 soltocaraa,29
-sillybillyyourself,29
 Bacteria999,27
 SeuAmigo35,27
 red085,27
@@ -255,6 +255,7 @@ biibeebackagain,6
 -GonCal-,6
 oanimador2,6
 Salvasconcelos2014,6
+gand7c,6
 PrincessPanda_test_,5
 Josimarjunior,5
 meringo,5
@@ -308,7 +309,6 @@ BlueGames300,5
 KenPoc,5
 Joaozinho_scratch1,5
 arthur35498,5
-gand7c,5
 Bola65Top,5
 Pitusky12,4
 hermanne,4
@@ -378,6 +378,8 @@ magic8anos,4
 victorgeletiva,4
 Bomberair,4
 2mais2ingual5,4
+indigomoondev,4
+SouRobloxAnimations,4
 Paddle2See,3
 clubpenguin552222,3
 macadam,3
@@ -753,7 +755,7 @@ estudante_08_8d,2
 henriplay77777,2
 LUKCEIDE,2
 click_anamations,2
-indigomoondev,2
+nigthmareoficial,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1536,4 +1538,3 @@ rafaelly1234cat,1
 Profa_Suzi,1
 CreeperPow,1
 piolhocriativo,1
-SouRobloxAnimations,1
