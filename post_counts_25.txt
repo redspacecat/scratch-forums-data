@@ -4,7 +4,7 @@ KaanNecip,578
 -BlueAngel-_tekrar_,456
 Troyer_Kem,327
 -PandasQueen-,243
-felix_thor,219
+felix_thor,222
 buzsacan,204
 ahmetlii,174
 AliCool_Tekrar,164
@@ -284,10 +284,12 @@ TR-AnL532,6
 YufusAnimates,6
 yasirator,6
 Denwerer_Test,6
+ZDwindows,6
 maiduslem,6
 emin_hakki_pc,6
 ScratchChallanger,6
 UmutOS_2013123,6
+EgemenUtangan2015,6
 omerfurkan,5
 CAMOKA,5
 Alvaroycarliqui,5
@@ -321,13 +323,11 @@ alitastik,5
 EMIRyusuf457,5
 catskediler,5
 OyunKuduzu1,5
-ZDwindows,5
 brk2342,5
 veysel06proo,5
 KawazakiOS,5
 umutbabapiro201316,5
 lattesiber,5
-EgemenUtangan2015,5
 winxbarbie,4
 enderrrr1,4
 arinbulut06,4
@@ -747,6 +747,7 @@ omerakifyildirim,2
 Kral5656x,2
 buyuk_VADI,2
 Latibule_Turk,2
+UmutTunaKoksal,2
 Bloxxerblox2015,2
 leo06140,2
 Atahan2309,2
@@ -756,6 +757,7 @@ The_Arost,2
 zaunep,2
 Madafa_,2
 ertugrulkorkusuz,2
+EloshaTR,2
 AliCool_TekrarTekrar,2
 8superlemon8,2
 LiFaytheGoblin,1
@@ -1473,7 +1475,6 @@ ceylanbora,1
 qwqw09,1
 abcklmn4,1
 inci67999,1
-UmutTunaKoksal,1
 maniizmir,1
 asaderdeli,1
 programcreator16,1
@@ -1494,8 +1495,10 @@ Veyselt06proo,1
 -Insatiable-,1
 oksol,1
 rizeli53rz,1
-EloshaTR,1
+alo-studio,1
 bilinki,1
 eresman,1
 kemalist_zenci,1
 reik0archive,1
+ibo_ucatli,1
+CAT-akademi,1

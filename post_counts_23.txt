@@ -216,6 +216,7 @@ Ronnoc20051101,14
 ashem,14
 tony2006,14
 jaydoctor,14
+kwj_,14
 YungWolY,14
 ddotty7848,14
 kandv,14
@@ -234,7 +235,6 @@ blackpantom,13
 QWENR2,13
 gloria-yeram,13
 rlarudcks2006,13
-kwj_,13
 kimtom060421,13
 sat0317,13
 Boxes_Breacker,13
@@ -328,6 +328,7 @@ snggch,9
 yeunmin,9
 xe12345,9
 POPPOP-0U0,9
+JohnWon0802,9
 Paddle2See,8
 eddison2005,8
 heeun,8
@@ -419,7 +420,6 @@ jorangmal_manse,7
 momoyn,7
 ballyrag,7
 suan1118,7
-JohnWon0802,7
 Swborn_Oh,7
 rowleys,6
 jujeone,6
@@ -709,6 +709,7 @@ goldeny7,4
 vovojh1004,4
 dragoncool9,4
 ss2023239,4
+ibored1,4
 Magentimy,4
 h24680,4
 ramouse,4
@@ -1310,7 +1311,6 @@ Unipink_gacha,2
 Strawberry_Vxnilla,2
 Coder0321,2
 scratch06290,2
-ibored1,2
 NaverCat,2
 Justin131216,2
 Newjeans_lover2,2

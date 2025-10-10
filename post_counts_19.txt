@@ -34,19 +34,19 @@ SwampTurtle,22
 Mmaarten,22
 Hetgroepje,21
 RuudW11,21
+jackdebij,21
 neknarvfets,20
 emdma,20
-jackdebij,20
 vanobras,19
 ocean20012,19
 liedfilm,18
 rostor1101,18
+Jensvp2,18
 schittering06,17
 nlmeid,17
 aarde10,17
 pierrepelzer,17
 Nambaseking01,17
-Jensvp2,17
 ggGamerpoke,17
 MatthiasLubbertsen,17
 AS-coder,17
@@ -373,6 +373,7 @@ br0dy161212,2
 noob19990,2
 omerceylan-2016,2
 cookietuber,2
+star_wars_guy_3,2
 Paddle2See,1
 LiFaytheGoblin,1
 Wagacca,1
@@ -915,3 +916,5 @@ Warremans,1
 ultrabomb205,1
 Official_progmohamed,1
 spikebs2025,1
+elidani11,1
+Simonsappel,1

@@ -22,7 +22,7 @@ BigNate469,41
 RobotChickens,39
 hacktronics,39
 cookieclickerer33,39
-Paddle2See,36
+Paddle2See,37
 DragoCuven,36
 know0your0true0color,34
 RichieNB,34
@@ -87,6 +87,7 @@ caesarion,15
 minor-edit,15
 unicorn_queen_1,15
 Starship_over_head,15
+ametrine_,15
 superben100,14
 sephiroth76,14
 Indiana__Jones,14
@@ -110,7 +111,6 @@ crawfishcode,12
 jeremy2050,12
 ExpungleCat2023,12
 tortoythegod,12
-ametrine_,12
 Kodwx,12
 HatmanGD,12
 thisisntme,11
@@ -200,6 +200,7 @@ johnelr,7
 _nix,7
 donotforgetmycode,7
 cs395875,7
+Catscratcher07,7
 wuhunghsiang,7
 GeckoTwin11,7
 Maximouse,7
@@ -236,7 +237,6 @@ Verald,6
 JonathanSchaffer,6
 darren-a,6
 mrbumppo,6
-Catscratcher07,6
 Neilbose12345678910,6
 CoolGamesNet,6
 Jeffalo,6
@@ -693,6 +693,7 @@ eselovescake,3
 EdBugV,3
 AzulAlt,3
 everettmouse,3
+secretuch,3
 nc116985,3
 JustPatrox,3
 Goldking9,3
@@ -706,8 +707,10 @@ FireyMakesInScratch,3
 Rn1g,3
 Windows_Simulations,3
 TealTheSprunki,3
+kahyreedre,3
 this_makes_no_sense,3
 levibarcelos7,3
+Scratchcat123000,3
 HailToTheKing2024,3
 Firedrake969,2
 laser314,2
@@ -1121,6 +1124,7 @@ MrScratchGuyMan,2
 -tornado3-,2
 TheoScratcher1,2
 Kapykapy,2
+estherreba,2
 Neverdeletescratch,2
 Sc257Y,2
 ibispain,2
@@ -1204,11 +1208,12 @@ superdude10996,2
 carryondaksh133,2
 superMEGAqx123,2
 -WutThe-,2
-kahyreedre,2
 peppagactual3,2
 catcatcat-UwU,2
 TheIfBlock_onOperaGX,2
 k_j_a-1,2
+kirbymetoo,2
+tkhalil357,2
 MrFlash67,1
 cobraguy,1
 SmeAnd,1
@@ -2649,6 +2654,7 @@ TheSuperScratchDude,1
 Kelvin_Projects,1
 breakfast_for_dinner,1
 The7YearOldGuy,1
+TheUnknownDisc208,1
 23mConnor,1
 WebsiteCreatorCEO,1
 HappyCookiesCoder,1
@@ -2729,6 +2735,7 @@ mahipalnehra,1
 buddub,1
 greats_animations,1
 Playaton900,1
+CodeComet6161,1
 splattgall,1
 Runningpaws,1
 black-sprunki2,1
@@ -2743,3 +2750,6 @@ P-ScratchFantendo,1
 JBOY_123,1
 CATMEOWMEOWEOW,1
 jk_edit,1
+orangescratcher9,1
+ado1ado2ado3ado4,1
+mikuSIMPP,1

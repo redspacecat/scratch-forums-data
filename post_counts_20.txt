@@ -2,7 +2,7 @@ henrick9,1358
 Fupicat,1294
 AdrielCrafter,547
 kdmuriscratch,339
-PLAYER_H360,263
+PLAYER_H360,265
 ScratchCatDoBem,253
 mimikyuinkling,252
 -Cubism007-,251
@@ -37,12 +37,13 @@ Lakzil,52
 taboa179,51
 Dude_Producoes,48
 calango_22_,48
+MultiverseMikaels,46
 AndreoliBR,43
 among_troll,43
-MultiverseMikaels,41
 Robottobueso,40
 SamuelLaw7,39
 lolo_0107,39
+sillybillyyourself,39
 cosmicboyoficial0,38
 thos1136,38
 MMSequeira,37
@@ -55,7 +56,6 @@ gui7814,34
 MaryMel10,34
 murlohhhhu,33
 Lucas28042014,32
-sillybillyyourself,32
 LeoLegal,29
 mcqueen95guianimoby,29
 gatorgb2808,29
@@ -63,9 +63,9 @@ soltocaraa,29
 Bacteria999,27
 SeuAmigo35,27
 red085,27
+davisteffens,27
 Renegabriel2013,27
 Jox-,26
-davisteffens,26
 OZO_SSJ_ROSE,25
 Danrom0809,25
 Sapaokkk,25
@@ -144,6 +144,7 @@ carroqualquer,11
 Nenorzin,11
 kaelfofo,11
 dompedro32015,11
+trimnaAalopido,11
 fupi437,10
 martinking,10
 Pinguim10,10
@@ -202,7 +203,6 @@ BIIBEE,8
 IS_THE_XSTRIKERX,8
 theorcaroxo435new,8
 chewiblumii-uwu,8
-trimnaAalopido,8
 Vrabb,7
 mubo5,7
 gugulatavo,7
@@ -380,6 +380,7 @@ Bomberair,4
 2mais2ingual5,4
 indigomoondev,4
 SouRobloxAnimations,4
+hiiiimmateus,4
 Paddle2See,3
 clubpenguin552222,3
 macadam,3
@@ -497,6 +498,7 @@ threegospel,3
 Robotto_alt,3
 kERED_iNOHT_nOITES,3
 TheoScratcher2,3
+nigthmareoficial,3
 cheddargirl,2
 DIY,2
 ErnieParke,2
@@ -738,6 +740,7 @@ gardifli,2
 conta-1,2
 gameboy_nt1-a,2
 mrfallout2024,2
+Pedrocaicaibalao,2
 rafanini77,2
 Daniel47C,2
 J_A-teste,2
@@ -752,10 +755,11 @@ ricardo_melograna,2
 LunaTryxs,2
 Biel_2017,2
 estudante_08_8d,2
+geralddadm98,2
 henriplay77777,2
 LUKCEIDE,2
 click_anamations,2
-nigthmareoficial,2
+lulisb,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1492,7 +1496,6 @@ TrophyBR,1
 SushiYT1,1
 Frederik_456,1
 RaquelCBorba,1
-Pedrocaicaibalao,1
 Lipegamesoficial,1
 Nina-FNF,1
 vimadiro1,1
@@ -1525,7 +1528,6 @@ andp312,1
 FelpoInScratch,1
 levibarcelos7,1
 7320_ebsmra,1
-geralddadm98,1
 Gabi2012TheCreator,1
 enzocrat,1
 yurhi_123,1
@@ -1538,3 +1540,5 @@ rafaelly1234cat,1
 Profa_Suzi,1
 CreeperPow,1
 piolhocriativo,1
+astr01512,1
+gaalex16,1
