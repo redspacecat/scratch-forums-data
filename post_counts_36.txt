@@ -27,6 +27,7 @@ Cloudwave,8
 gilbert_given_189,8
 SCRATCH-user--100000,8
 meow_cat19,8
+Abiyyu_zaia2014,8
 Hans5958,7
 Creatore10,7
 Galaxy3311,7
@@ -41,7 +42,6 @@ peterdom711,6
 TerongCraftIsTrash,6
 anakgama,6
 Rafasyah,6
-Abiyyu_zaia2014,6
 CaptainJbeans,5
 alfaon,5
 rudyekoprasetya,5

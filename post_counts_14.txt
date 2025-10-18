@@ -164,6 +164,7 @@ osoneval3,15
 matiasxdpro21,15
 EduZak725,15
 ElSuperProgramador,15
+Bellota_Azul,15
 Miler559,15
 ChicoTecnologico,15
 Montytfe,15
@@ -214,7 +215,6 @@ Verofull-Robotica,12
 Fitsoldecot3000,12
 honjo99,12
 Alitengohambre989,12
-Bellota_Azul,12
 Ender009_ES,12
 VIGARPAST_777,12
 josueart,12
@@ -674,10 +674,12 @@ E-VEGA8,5
 Aj0l0t3,5
 doshabdnthemaker,5
 davogamer111,5
+skibidigabri,5
 _Trooper_08,5
 mostaza123,5
 AlotofGenially,5
 BrudAndTechnicRAM666,5
+alejandrocortina_9,5
 Garfino_,5
 -FixRises-,5
 curiouscrab,4
@@ -838,12 +840,10 @@ leomixer456,4
 kingtoad24,4
 __NTN__,4
 sombielado,4
-skibidigabri,4
 MagicVideogames,4
 WindowsCreating,4
 El_Pro_Tips,4
 Gatiicraft,4
-alejandrocortina_9,4
 maticatan,4
 lGNITION98inthegrove,4
 borislasaucissebeige,4
@@ -1687,6 +1687,7 @@ Milo_el_ajolote,2
 Juanscratch001,2
 Prienix_Grey,2
 edrssa,2
+MinceraftFan,2
 Mimoson,2
 SuperMikie,2
 Teocraft777,2
@@ -1870,11 +1871,13 @@ Solcitoxdd,2
 Scratchcat123000,2
 lgnition98lnthegrove,2
 thilol258pamer,2
+luchito_chulito,2
 dhifjf,2
 JELLY-EAT,2
 Knuckles2025,2
 Juani120315,2
 ellansaguisos,2
+SoyMarelio,2
 technoboy10,1
 funelephant,1
 P110,1
@@ -3614,6 +3617,7 @@ F-B-Z,1
 A2215,1
 el_hack_,1
 Sebastuberprogramado,1
+avk2010,1
 Kellycol154,1
 juan20josejuuuu,1
 TheWeirdo600,1
@@ -4326,3 +4330,8 @@ draconic-,1
 LeoGames-,1
 abdiasdavidvega3,1
 Dominic_Dur7,1
+DXOWE,1
+NicolasBustamanteP,1
+sebastian2531,1
+jose_242424Englishh,1
+Ultra-Rare-Pumpkin,1
