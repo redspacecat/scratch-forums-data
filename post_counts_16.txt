@@ -589,6 +589,7 @@ jp-sos,5
 lkws191089,5
 scr21013780,5
 Kid-bluey,5
+kuromi5038,5
 eniac2008,4
 hudixiaoxue,4
 Domon-poppy,4
@@ -719,7 +720,6 @@ scc-voiact-anim,4
 Miqwer,4
 Alvintsao,4
 han103413,4
-kuromi5038,4
 az8312,3
 jw-32646,3
 IMer,3
@@ -938,6 +938,7 @@ Ritaiychee,3
 tidelgl,3
 4C06MC,3
 09st3645172,3
+Ancodeb,3
 yoland,2
 joshuaho,2
 kwongyip50,2

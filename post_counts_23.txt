@@ -196,6 +196,7 @@ hyunbmw,16
 Spaito,16
 KIMHAMIN1227,16
 01917800000cheeta,16
+tureas,16
 nmnmnmnm,15
 Korean-1,15
 seongwongi,15
@@ -250,7 +251,6 @@ son123123,13
 qwetyuioop,13
 WJ0P,13
 pokemon140708,13
-tureas,13
 bjkim9805,12
 calebhb,12
 choiboseong,12
@@ -589,6 +589,7 @@ jibang1,5
 nohjh123,5
 mono8810,5
 sgg10402,5
+kim_science,5
 Harakou,4
 sg0236,4
 danny321,4
@@ -938,7 +939,6 @@ hijaybyejay,3
 cookie_4444,3
 sodapple,3
 pancakewolf12,3
-kim_science,3
 PrincessPanda_test_,2
 000810,2
 siwoo1229,2
