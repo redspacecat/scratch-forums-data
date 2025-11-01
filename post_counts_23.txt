@@ -421,6 +421,7 @@ momoyn,7
 ballyrag,7
 suan1118,7
 Swborn_Oh,7
+kim_science,7
 rowleys,6
 jujeone,6
 BlackAndWhite007,6
@@ -491,10 +492,12 @@ DannyWavve,6
 shkim0414,6
 smocat,6
 Kenny666666,6
+raymond-sung,6
 foghrla,6
 vecb-rd,6
 giraffes_0_0,6
 Korean-jam,6
+leogiraffe,6
 sleepground1013,6
 colin350,5
 dhtmdals,5
@@ -577,7 +580,6 @@ Oneuldo-,5
 earthcode9001,5
 Timka35,5
 dnjwm,5
-raymond-sung,5
 c3sp5,5
 Zzang-Kirby-News,5
 john131224,5
@@ -589,7 +591,6 @@ jibang1,5
 nohjh123,5
 mono8810,5
 sgg10402,5
-kim_science,5
 Harakou,4
 sg0236,4
 danny321,4
@@ -719,7 +720,6 @@ leo06140,4
 MegaSouthKoreaBall,4
 mario_rr11,4
 pch10033008,4
-leogiraffe,4
 moonzzang,3
 Neulbo,3
 skdenny,3
@@ -1329,6 +1329,7 @@ STUDIO_Devil,2
 nyangnyangJAY,2
 Jjchoi19,2
 lemurparchment,2
+nm25129,2
 ehdgkr97,1
 henrybros,1
 ktx,1
@@ -2498,3 +2499,5 @@ keokeo-_-1234,1
 GGHI13,1
 froghong1230,1
 june_2745,1
+catdoggirlboy,1
+udontknowhowiam,1

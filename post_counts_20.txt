@@ -96,6 +96,7 @@ XxMarcos_,16
 Henriquebm12,16
 boloniaepedro2011,16
 VINICIUSCORREIAgal,16
+dompedro32015,16
 FelipeGamescom,15
 Pixelinho,15
 SonoHi,15
@@ -110,7 +111,6 @@ Scratch_bugs,14
 cosmicinfinity,14
 thos-secundario,14
 Lilo5000,14
-dompedro32015,14
 franciscoscratch,13
 Lazaro_Rafael,13
 soph_twin,13
@@ -203,6 +203,7 @@ BIIBEE,8
 IS_THE_XSTRIKERX,8
 theorcaroxo435new,8
 chewiblumii-uwu,8
+nigthmareoficial,8
 Vrabb,7
 mubo5,7
 gugulatavo,7
@@ -226,7 +227,6 @@ Rafael_Bagi123,7
 JooJNeeN,7
 ProjetosPT-BR,7
 Redthony2,7
-nigthmareoficial,7
 NoxSpooth,6
 raposita,6
 Leam_Milk,6
@@ -310,6 +310,7 @@ BlueGames300,5
 KenPoc,5
 Joaozinho_scratch1,5
 arthur35498,5
+LUKCEIDE,5
 Bola65Top,5
 Pitusky12,4
 hermanne,4
@@ -365,6 +366,7 @@ danibrg10_,4
 Tutu_32BR,4
 pedrolegal_fan,4
 The_guybehindall,4
+ryancrazyerror,4
 Ianoni2,4
 EnzoPiluski,4
 Incredifanyay,4
@@ -477,9 +479,9 @@ ninjadosqueijos,3
 pessoa4263,3
 leo-45,3
 Jesachs01,3
+Froggie136,3
 VOUJOUN_English,3
 GigaToons_Oficial,3
-ryancrazyerror,3
 Luffy_cria,3
 aelsonjo,3
 Princ-Daisy,3
@@ -500,7 +502,7 @@ threegospel,3
 Robotto_alt,3
 kERED_iNOHT_nOITES,3
 TheoScratcher2,3
-LUKCEIDE,3
+vnikoofard,3
 cheddargirl,2
 DIY,2
 ErnieParke,2
@@ -705,7 +707,6 @@ DioBrandoNaInternet,2
 GamesBons,2
 cayo1233,2
 FelipeMAXCosta,2
-Froggie136,2
 TK0000300,2
 MckenziescratchX,2
 LuhCard0so,2
@@ -1546,3 +1547,4 @@ astr01512,1
 marcelo8bits,1
 jamalito15,1
 BleckSTUDIO,1
+Daniel2Gameryt,1

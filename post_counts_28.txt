@@ -121,6 +121,7 @@ Lapipelette,6
 monhongphuc,6
 adambeda,6
 Ludicriskarm30,6
+ametrine_,6
 SmeAnd,5
 s_federici,5
 Scratch12300,5
@@ -147,7 +148,6 @@ MinecraftGaming6868,5
 AsianMacbookGuy,5
 BIL_85200F,5
 dollar2022,5
-ametrine_,5
 TalonClaw09,5
 tlangster,4
 curiouscrab,4
@@ -1279,4 +1279,7 @@ phananh280615,1
 Jjnumber,1
 musajanuare,1
 Sasha310713,1
+dizzyboy42,1
 phamkhaan11,1
+bokiboranijasevic,1
+ismellamongus,1
