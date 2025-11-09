@@ -713,6 +713,7 @@ Windows_Simulations,3
 TealTheSprunki,3
 kahyreedre,3
 this_makes_no_sense,3
+Michael_M_Games,3
 Scratchcat123000,3
 HailToTheKing2024,3
 Firedrake969,2
@@ -1173,6 +1174,7 @@ REALchipflake,2
 CoolMathStuff,2
 dumorando,2
 ElvenEmperor,2
+poppy849,2
 KingCoder64,2
 cwhq_callane,2
 YOUTUBE-Coding,2
@@ -1191,6 +1193,7 @@ FurryR,2
 HighlaneGamingStudio,2
 MishkaGamesFun,2
 SleepyWeppyTK122,2
+my_c00l_games,2
 AmaTeam1112,2
 Thebloxers998,2
 chatRBT,2
@@ -1219,10 +1222,12 @@ peppagactual3,2
 catcatcat-UwU,2
 GoodML,2
 TheIfBlock_onOperaGX,2
+Elijah182016,2
 k_j_a-1,2
 kirbymetoo,2
 tkhalil357,2
 FriesFromFivePies,2
+swott1,2
 MrFlash67,1
 cobraguy,1
 SmeAnd,1
@@ -2382,6 +2387,7 @@ WgdSecond,1
 binhminhvn2,1
 owen31213,1
 Veniamin6,1
+jale3ms,1
 AnimatedCraziness62,1
 Isaque113557A,1
 HelloJelloPeople,1
@@ -2757,7 +2763,6 @@ black-sprunki2,1
 xAmethystxNesporovax,1
 bean256565,1
 Davilucas12435,1
-Elijah182016,1
 vlvtdo0m,1
 diablosgremlin,1
 SpaceBar265,1
@@ -2772,6 +2777,7 @@ orangescratcher9,1
 ado1ado2ado3ado4,1
 goiecjhf8912111,1
 mikuSIMPP,1
+Deed20091,1
 claptontheman,1
 HiddenSquid62,1
 subject10123,1
@@ -2780,3 +2786,6 @@ c0oke,1
 phamkhaan11,1
 dpowell11,1
 Tina130314,1
+hopeisurfriend,1
+pishi-ai,1
+CAPTAIN_RED_FARES,1

@@ -1,7 +1,7 @@
 Eenderman,45
 sweets_lover_2022,36
 Zelnady,29
-ava90000,24
+ava90000,26
 DinoMaster20,19
 Ayoubela,19
 Moonika77,18
@@ -109,6 +109,7 @@ Lizzie_DrawsArt,3
 Luperlanded,3
 Chineme_Eze-beta,3
 Da_Nephew,3
+resworder244,3
 BY147258369,2
 PrincessPanda_test_,2
 Fupicat,2
@@ -460,6 +461,7 @@ OnyxPeople,1
 SandwichAnimates,1
 hello-sir-,1
 Leonardo2nd,1
+StefanLovesAlphabets,1
 Dxrker-Dxys,1
 -cuteboba-,1
 thegoofhere,1

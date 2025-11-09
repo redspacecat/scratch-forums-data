@@ -4,7 +4,7 @@ KaanNecip,578
 -BlueAngel-_tekrar_,456
 Troyer_Kem,327
 -PandasQueen-,243
-felix_thor,222
+felix_thor,225
 buzsacan,204
 ahmetlii,174
 AliCool_Tekrar,164
@@ -168,6 +168,7 @@ dogaperisi,11
 erencemaltay,11
 masallah_kodluyorum,11
 AlperTEAMoffical,11
+EgemenUtangan2015,11
 Danger07,10
 Sezdolonoid,10
 SaycoMaker_TR,10
@@ -224,7 +225,6 @@ CeOYT3,8
 kaliali201,8
 selimt9,8
 akifozturk,8
-EgemenUtangan2015,8
 Denizcgr,7
 UnknownDonut,7
 The_Difference,7
@@ -761,6 +761,7 @@ ertugrulkorkusuz,2
 EloshaTR,2
 AliCool_TekrarTekrar,2
 8superlemon8,2
+85_UGABUGA_85,2
 LiFaytheGoblin,1
 hakanatas,1
 gbugut,1
@@ -1504,4 +1505,3 @@ bigsaleh8205SXGMX,1
 ibo_ucatli,1
 CAT-akademi,1
 elmaadamsonhesap,1
-85_UGABUGA_85,1

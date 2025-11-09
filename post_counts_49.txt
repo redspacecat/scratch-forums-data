@@ -3,7 +3,7 @@ R4356th,67
 Jonathan50,52
 mewtaylor,49
 Harakou,45
-CST1229,39
+CST1229,40
 liam48D,37
 DrKat123,31
 OurPrincess,29
@@ -37,6 +37,7 @@ JGames101,10
 hello_smile,10
 Executec,10
 Frenzyboyz33,10
+cosmosaura,10
 rasmusolle,9
 god286,9
 --Explosion--,9
@@ -51,7 +52,6 @@ Boomer001,8
 hibob888,8
 mumu245,8
 han614698,8
-cosmosaura,8
 kRxZy_kRxZy,8
 Mrcomputer1,7
 topman101,7
@@ -79,6 +79,7 @@ Abigblueworld,6
 Sboosh_Kaboosh,6
 EPICCODERS1010,6
 Chiroyce,6
+tntman24,6
 julmik6478,6
 cheddargirl,5
 WooHooBoy,5
@@ -243,6 +244,7 @@ Bananster,3
 ZefunGR,3
 breakfast_for_dinner,3
 scarysailor568,3
+Reyuscratch,3
 LiFaytheGoblin,2
 cobraguy,2
 scratchisthebest,2
@@ -458,9 +460,12 @@ UmberonZ,2
 d016,2
 LinkMHE4,2
 zallynotfound,2
+-WildFireStudios-,2
 Awesome-maker357,2
 32kelbt,2
+kawan546gusthavo1234,2
 dizzyboy42,2
+-Animator_Mates-,2
 zorket,1
 MrFlash67,1
 chacharosie8888,1
@@ -797,6 +802,7 @@ vcszaneh,1
 whatware,1
 Yeetoburro1,1
 socceroo774,1
+CoolLock,1
 Burgher1679,1
 AdrianYang,1
 scienceexplorer1,1
@@ -1111,12 +1117,14 @@ sterlingm5,1
 CodeComet6161,1
 ASHADOW-,1
 D-78,1
+beangdh,1
 Fr0stiNix,1
 Mrtoddmix,1
--WildFireStudios-,1
 zephyr12_,1
 rareredx,1
 -_-prieansh-_-,1
 retro2D,1
+MOFEABI,1
 sprunkifan2007,1
-Reyuscratch,1
+KingCayen011-ALT,1
+LightSpeed02,1

@@ -1,6 +1,6 @@
 henrick9,1358
 Fupicat,1294
-AdrielCrafter,547
+AdrielCrafter,551
 kdmuriscratch,339
 PLAYER_H360,265
 ScratchCatDoBem,253
@@ -82,6 +82,7 @@ GAMEMAKERPV,19
 Neon12345,18
 bibifumaca,18
 pedroGAMES2011,18
+dompedro32015,18
 Bianca36bucket,17
 Kaiak139,17
 leogames2016,17
@@ -96,7 +97,6 @@ XxMarcos_,16
 Henriquebm12,16
 boloniaepedro2011,16
 VINICIUSCORREIAgal,16
-dompedro32015,16
 FelipeGamescom,15
 Pixelinho,15
 SonoHi,15
@@ -312,6 +312,7 @@ Joaozinho_scratch1,5
 arthur35498,5
 LUKCEIDE,5
 Bola65Top,5
+lulisb,5
 Pitusky12,4
 hermanne,4
 barichello,4
@@ -502,6 +503,7 @@ threegospel,3
 Robotto_alt,3
 kERED_iNOHT_nOITES,3
 TheoScratcher2,3
+heitorBrazillindo,3
 vnikoofard,3
 cheddargirl,2
 DIY,2
@@ -760,9 +762,9 @@ Biel_2017,2
 estudante_08_8d,2
 henriplay77777,2
 click_anamations,2
-lulisb,2
 gaalex16,2
 IncrediboxMods1,2
+thalesc,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1548,3 +1550,4 @@ marcelo8bits,1
 jamalito15,1
 BleckSTUDIO,1
 Daniel2Gameryt,1
+Mitts984_,1

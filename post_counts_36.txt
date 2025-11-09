@@ -102,6 +102,7 @@ Kelaskaryabersama,3
 neofetch,3
 ghy02,3
 hafi_mimi,3
+noobieguythecoolguy,3
 budichang,2
 diniatikasari,2
 juruseo,2
@@ -334,6 +335,7 @@ rafakadafi,1
 NathanDarryl,1
 usefun2,1
 HelloWorld-D,1
+GAGETHEDUDE,1
 atheatiya,1
 one_hdk,1
 MasterGome,1

@@ -80,6 +80,7 @@ magikostheo,3
 pandastarx,3
 leo06140,3
 x_gamer2019,3
+Subaru_WRX_21,3
 Paddle2See,2
 dimis,2
 s0f1,2
@@ -137,6 +138,7 @@ logomaker_sln_els,2
 arispro1234562,2
 ijv24,2
 Michael_M_Games,2
+GeiNek,2
 scratchisthebest,1
 NattyB,1
 Blazingwave,1
@@ -319,5 +321,3 @@ agge-egga,1
 gashsito,1
 HiT_924,1
 windows9683,1
-Subaru_WRX_21,1
-GeiNek,1
