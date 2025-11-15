@@ -182,6 +182,7 @@ arpruss,8
 kingKASEtheGREATalt,8
 BlueAlien50,8
 IMAhomosapien,8
+Abrig67,8
 _bz,8
 -gr,8
 Crispydogs101,8
@@ -329,7 +330,6 @@ Supermariofan432,5
 TheMobileGames,5
 idkthescratch,5
 Daisy_Kat,5
-Abrig67,5
 G-ccaatt,5
 Superwindows_plz79,5
 pokebrouserkat,5
@@ -361,6 +361,7 @@ cheating_man,5
 scratchnouh,5
 simano332,5
 Bitebite12,5
+levibarcelos7,5
 Jacko_Playsgames,5
 deck26,4
 rdococ,4
@@ -489,7 +490,7 @@ Supaboy1581,4
 scratcherman507,4
 redpeekachoo,4
 amagamecode,4
-levibarcelos7,4
+CharmanderHero190,4
 Pi_master31,4
 AonymousGuy,3
 GodzillaKing100,3
@@ -707,7 +708,6 @@ Connerfurr13,3
 Maeesh,3
 ycl3294777,3
 FireyMakesInScratch,3
-CharmanderHero190,3
 Rn1g,3
 Windows_Simulations,3
 TealTheSprunki,3
@@ -1227,6 +1227,8 @@ k_j_a-1,2
 kirbymetoo,2
 tkhalil357,2
 FriesFromFivePies,2
+Julesvernebeales,2
+hopeisurfriend,2
 swott1,2
 MrFlash67,1
 cobraguy,1
@@ -2702,6 +2704,7 @@ Beebo_Robot64Real,1
 _Code-Crafter_,1
 mihatshop,1
 UserBlockedYou,1
+kip23s,1
 MiguelMassolaEDU,1
 electric_programming,1
 kRxZy_kRxZy,1
@@ -2733,8 +2736,10 @@ yuyos1864,1
 naturallyweirdx,1
 simanoCom,1
 -GreenWonder-,1
+coolcat3200,1
 scratcherstk,1
 dappermav,1
+The-best101,1
 SHIMANONDIY,1
 TheIfBlock,1
 Roadrunner3512,1
@@ -2786,6 +2791,5 @@ c0oke,1
 phamkhaan11,1
 dpowell11,1
 Tina130314,1
-hopeisurfriend,1
 pishi-ai,1
 CAPTAIN_RED_FARES,1

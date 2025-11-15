@@ -1,4 +1,4 @@
-henrick9,1358
+henrick9,1360
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
@@ -35,12 +35,12 @@ pedrodrocafranco,53
 davilindo2022,53
 Lakzil,52
 taboa179,51
+MultiverseMikaels,49
 Dude_Producoes,48
 calango_22_,48
-MultiverseMikaels,47
 AndreoliBR,43
 among_troll,43
-sillybillyyourself,41
+sillybillyyourself,42
 Robottobueso,40
 SamuelLaw7,39
 lolo_0107,39
@@ -97,12 +97,12 @@ XxMarcos_,16
 Henriquebm12,16
 boloniaepedro2011,16
 VINICIUSCORREIAgal,16
+Tankmandadoriginal,16
 FelipeGamescom,15
 Pixelinho,15
 SonoHi,15
 -Laura-ap_Scratch-,15
 Bardo1900,15
-Tankmandadoriginal,15
 Maujoa-Minecraft,14
 jackson958,14
 Cookie_Player,14
@@ -179,6 +179,7 @@ jmjose7c,9
 HenriqueGramasco,9
 CardsUp,9
 dani665gt,9
+nigthmareoficial,9
 anony193,8
 rubaolima,8
 jassonmode,8
@@ -203,7 +204,7 @@ BIIBEE,8
 IS_THE_XSTRIKERX,8
 theorcaroxo435new,8
 chewiblumii-uwu,8
-nigthmareoficial,8
+hiiiimmateus,8
 Vrabb,7
 mubo5,7
 gugulatavo,7
@@ -385,7 +386,6 @@ Bomberair,4
 2mais2ingual5,4
 indigomoondev,4
 SouRobloxAnimations,4
-hiiiimmateus,4
 Paddle2See,3
 clubpenguin552222,3
 macadam,3
@@ -1551,3 +1551,4 @@ jamalito15,1
 BleckSTUDIO,1
 Daniel2Gameryt,1
 Mitts984_,1
+randomProgammerbr,1

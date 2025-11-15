@@ -4,7 +4,7 @@ KaanNecip,578
 -BlueAngel-_tekrar_,456
 Troyer_Kem,327
 -PandasQueen-,243
-felix_thor,225
+felix_thor,226
 buzsacan,204
 ahmetlii,174
 AliCool_Tekrar,164
@@ -48,8 +48,8 @@ zafersafa007,39
 KAANOYUNCu9-,39
 ruveydazeynep,38
 TURKEY1414,38
+kodcu900,38
 AliCool,37
-kodcu900,37
 yineben,36
 KAYRA-SUPER,36
 turkkod,35
@@ -167,6 +167,7 @@ Begonya_123,11
 dogaperisi,11
 erencemaltay,11
 masallah_kodluyorum,11
+Tunaagirbas,11
 AlperTEAMoffical,11
 EgemenUtangan2015,11
 Danger07,10
@@ -184,7 +185,6 @@ berkaypro20000,10
 BrownCarrot_,10
 BritneyILoVeU,10
 ancyrsa,10
-Tunaagirbas,10
 1905_alp,10
 ezeliveba,9
 MrAdmin,9
@@ -1505,3 +1505,4 @@ bigsaleh8205SXGMX,1
 ibo_ucatli,1
 CAT-akademi,1
 elmaadamsonhesap,1
+PenguenKing,1
