@@ -765,6 +765,7 @@ click_anamations,2
 gaalex16,2
 IncrediboxMods1,2
 thalesc,2
+zinho1010,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1552,3 +1553,4 @@ BleckSTUDIO,1
 Daniel2Gameryt,1
 Mitts984_,1
 randomProgammerbr,1
+DiogoGoisSantana,1

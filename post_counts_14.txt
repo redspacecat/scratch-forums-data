@@ -1144,6 +1144,7 @@ Coco_fresquito1,3
 sunlight_zone,3
 AdriMoyan,3
 crazyfrogcat,3
+angel1411,3
 enderdragongaymer,3
 Galaxy_luigi,3
 enzo4030,3
@@ -1821,7 +1822,6 @@ Alecrax12,2
 maquinadeguerra_07,2
 lamantisxd,2
 POTI-EL-PROGRAMADOR2,2
-angel1411,2
 gorra_isFashion,2
 A-5-13,2
 Carlos-Rivero2024,2
@@ -4357,3 +4357,4 @@ xouxatumare13,1
 xXKrctvXx,1
 Alejandro-2016,1
 karol_lizeth,1
+ValentinElPro2025,1

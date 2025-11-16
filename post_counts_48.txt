@@ -2762,12 +2762,14 @@ greats_animations,1
 Top-notch-Games,1
 Playaton900,1
 CodeComet6161,1
+tswift2018,1
 splattgall,1
 Runningpaws,1
 black-sprunki2,1
 xAmethystxNesporovax,1
 bean256565,1
 Davilucas12435,1
+The-Animation-Pro,1
 vlvtdo0m,1
 diablosgremlin,1
 SpaceBar265,1
@@ -2791,5 +2793,6 @@ c0oke,1
 phamkhaan11,1
 dpowell11,1
 Tina130314,1
+TeoProotTest,1
 pishi-ai,1
 CAPTAIN_RED_FARES,1

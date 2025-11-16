@@ -7,7 +7,7 @@ bharvey,3047
 liam48D,2739
 god286,2543
 DifferentDance8,2487
-Maximouse,2221
+Maximouse,2222
 kccuber,2195
 blob8108,2018
 NFlex23,2005
@@ -46,15 +46,15 @@ infinitytec,934
 _nix,924
 ScolderCreations,916
 WooHooBoy,907
-medians,881
+medians,885
 -Io-,849
 ninjaMAR,849
+BigNate469,843
 uwv,842
-BigNate469,842
 technoboy10,841
 BreadcatGames,840
 dynamicsofscratch,831
-Marc92020,827
+Marc92020,829
 -ElectronicArts-,820
 DigiTechs,815
 dude341,803
@@ -203,8 +203,8 @@ Icely,223
 ev3coolexit987654,223
 ogadaki,221
 TheSecondGilbert,217
+redspacecat,217
 The_Mad_Punter,216
-redspacecat,215
 BKFighter,214
 SuperSonicmario,210
 ElsieBreeze,207
@@ -238,9 +238,9 @@ Adzboy,180
 happyland440,179
 wizzwizz7,178
 xly,177
+scratchcode1_2_3,177
 Joshisaurio,177
 cookieclickerer33,177
-scratchcode1_2_3,176
 u7p,176
 cycomachead,175
 frodewin,174
@@ -266,9 +266,9 @@ retro_person,157
 yooit_32,156
 EMPedemonte20,155
 Layzej,153
+Mr_rudy,151
 linearlemur,151
 RokCoder,150
-Mr_rudy,150
 Blueinkproductions,147
 2D4eter,147
 Ethan_1,146
@@ -411,10 +411,10 @@ ma007rio,82
 asivi,81
 -Vuton-,81
 starhero5697,81
+cosmosaura,81
 HatmanGD,81
 Tropic,80
 f1lip,80
-cosmosaura,80
 Zatnik,79
 titanscratch,79
 SuperScratcher_1234,79
@@ -715,6 +715,7 @@ fivesythe,36
 Blackout32,36
 Neutronz,36
 09878901234321,36
+Ocerb,36
 TheBFDIObjectShowFan,36
 NormalFradOfficial,36
 TimothyLawyer,35
@@ -728,7 +729,6 @@ Super_Scratch_Bros20,35
 1970X,35
 SuperMarioHome,35
 2016s4m29,35
-Ocerb,35
 Walrus227,34
 jacquesimo,34
 TeslaTech,34
@@ -1264,12 +1264,14 @@ VisveishSakthivel,15
 theycallhermax,15
 KAKALLIKA,15
 Nick4999_holder,15
+jale3ms,15
 PurplePyramid,15
 ababoin07,15
 chloe2ego,15
 Daynla,15
 chippysmall4,15
 Waakul,15
+kip23s,15
 wasducks,15
 joletole,14
 Servine,14
@@ -1327,7 +1329,6 @@ beingmedhu,14
 chriscreators14,14
 yaveenSTEM,14
 LaughabIe,14
-jale3ms,14
 cake__5,14
 -cat-food-,14
 wz1e,14
@@ -1412,6 +1413,7 @@ CodeTorchNET,13
 wot-er-brother,13
 Penthusiast,13
 mikhail_a_m,13
+Drag00nKnight_999,13
 Wes64,12
 ImagineIt,12
 CNMustang,12
@@ -1488,8 +1490,6 @@ helloimnob,12
 BabyBoyReader11,12
 KingKittyTurnip,12
 DigitalSeagull28,12
-kip23s,12
-Drag00nKnight_999,12
 Jmesgmes9696,12
 FirstSkyler1,11
 curiouscrab,11
@@ -1563,6 +1563,7 @@ Alastrantia,11
 Xzillox,11
 MerrCraft,11
 GamerDAC,11
+HighlaneGamingStudio,11
 Lightnin,10
 Nathanator1416J,10
 iTweak0r,10
@@ -1700,7 +1701,6 @@ Dev_6320,10
 viIIager,10
 leogul11,10
 cs845962,10
-HighlaneGamingStudio,10
 Scyth3d,10
 AnimateThumb,10
 rexygames13,10
@@ -2210,6 +2210,7 @@ mc20000,7
 Charlieonthego,7
 heitor271217k,7
 Chrome-Dog,7
+_-_-F4F_-_-,7
 AlexP8944,7
 NotYourTypicalBean,7
 doodoothings1,7
@@ -4343,7 +4344,6 @@ henriquemel,3
 Wolf_Link21,3
 Matikiscool,3
 calin_pirtea,3
-_-_-F4F_-_-,3
 sdipadchromebook,3
 -StarryDog-,3
 ARandomPerson90182,3
@@ -6427,12 +6427,14 @@ SHAMAN2016,2
 1d324,2
 wv6q,2
 ClientCode,2
+ninja_vex,2
 ninjacat28_,2
 animations_semag,2
 -animatingone6-,2
 thesimba10,2
 Machinestrategyguy,2
 SkyCedar,2
+NooblexGameDev,2
 Kong_Tullman,2
 L15mar,2
 rusdal,2
@@ -6474,6 +6476,7 @@ jacksonbluey,2
 76finding_,2
 CodeComet6161,2
 InternetofThingsCore,2
+holdytherobloxpro,2
 lukethepineapple,2
 In_Perpetuity,2
 cosmicradiation7,2
@@ -6527,6 +6530,8 @@ cappu1,2
 GT9169,2
 -_powerpoint_-,2
 pishi-ai,2
+playerPl47,2
+void9909,2
 illusionist,1
 Lucario621,1
 johnm,1
@@ -11211,6 +11216,7 @@ GrowDev9,1
 Batmanb1234,1
 flynncat16,1
 hihihisdachdsv,1
+damyziko,1
 nguwu,1
 pitcherj,1
 FelipeGamesBRYTPK,1
@@ -12583,7 +12589,6 @@ Hanako-Kun___,1
 hapxdev,1
 CheesyDuckAnimations,1
 ampvibes,1
-ninja_vex,1
 -kakeruzoku-,1
 -MultiFandomMixer-,1
 UnMemoCualquiera,1
@@ -12612,7 +12617,6 @@ TheSnoopy_,1
 Noah5665,1
 aishiksandipanial,1
 Gregoryplayz2015,1
-NooblexGameDev,1
 661083,1
 SDE_crystal33,1
 sh4dow_05,1
@@ -12751,7 +12755,6 @@ octawian,1
 superghazi,1
 -leopard-gamer-,1
 skskfahmee,1
-holdytherobloxpro,1
 catcatcat-UwU,1
 little-wolf112,1
 weihuhu,1
@@ -12761,6 +12764,7 @@ TutorLurdumolochTest,1
 Vixoric,1
 max_orange_man,1
 coffeeandroses,1
+CoralTurtles,1
 947joao,1
 sharethewisdom,1
 StudioDANV,1
@@ -12813,6 +12817,7 @@ robloxoofmaster,1
 glogogab,1
 -WildFireStudios-,1
 makksi,1
+minecrafthero1000,1
 Lpea42,1
 zachattack28457,1
 GAMEMAKER1435,1
@@ -12828,6 +12833,7 @@ greengamedevs,1
 Dervious,1
 THEOFFICIALWCAY,1
 BuffBanan,1
+rafael12scratch,1
 NedoKrut,1
 Reizer52k,1
 minecraftguyAMHIM,1
@@ -12858,6 +12864,7 @@ pokemonandgames,1
 Saunter,1
 MiniMedic2014,1
 Gingerdabadboi_II,1
+abraham93420,1
 BloxyCola4,1
 AndrewS1620,1
 swassbac,1
@@ -12870,8 +12877,6 @@ Iamascratchuser2840,1
 6-_-7,1
 olliver_flamee,1
 arlisk95,1
-playerPl47,1
-void9909,1
 Nooblord765767,1
 Neon_Sprite,1
 memes_oh_ye,1
