@@ -4,7 +4,7 @@ KaanNecip,578
 -BlueAngel-_tekrar_,456
 Troyer_Kem,327
 -PandasQueen-,243
-felix_thor,226
+felix_thor,227
 buzsacan,204
 ahmetlii,174
 AliCool_Tekrar,164
@@ -761,6 +761,7 @@ ertugrulkorkusuz,2
 EloshaTR,2
 AliCool_TekrarTekrar,2
 8superlemon8,2
+ibo_ucatli,2
 85_UGABUGA_85,2
 LiFaytheGoblin,1
 hakanatas,1
@@ -1502,7 +1503,6 @@ eresman,1
 kemalist_zenci,1
 reik0archive,1
 bigsaleh8205SXGMX,1
-ibo_ucatli,1
 CAT-akademi,1
 elmaadamsonhesap,1
 PenguenKing,1

@@ -2,7 +2,7 @@ henrick9,1360
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
-PLAYER_H360,265
+PLAYER_H360,266
 ScratchCatDoBem,253
 mimikyuinkling,252
 -Cubism007-,251
@@ -88,6 +88,7 @@ Kaiak139,17
 leogames2016,17
 PeksJV,17
 AdultSystems,17
+Tankmandadoriginal,17
 Napstablok,16
 M-agia,16
 Lhamamoon,16
@@ -97,7 +98,6 @@ XxMarcos_,16
 Henriquebm12,16
 boloniaepedro2011,16
 VINICIUSCORREIAgal,16
-Tankmandadoriginal,16
 FelipeGamescom,15
 Pixelinho,15
 SonoHi,15
@@ -505,6 +505,7 @@ kERED_iNOHT_nOITES,3
 TheoScratcher2,3
 heitorBrazillindo,3
 vnikoofard,3
+Maju14Kitty,3
 cheddargirl,2
 DIY,2
 ErnieParke,2
@@ -1554,3 +1555,4 @@ Daniel2Gameryt,1
 Mitts984_,1
 randomProgammerbr,1
 DiogoGoisSantana,1
+KlebzinhoGamer,1

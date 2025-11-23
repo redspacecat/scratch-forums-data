@@ -183,6 +183,7 @@ dododo0202,17
 gb203110,17
 rdh0417,17
 GGHGZA,17
+tureas,17
 145589,16
 Zeron-no27,16
 dmsdn5055,16
@@ -196,7 +197,6 @@ hyunbmw,16
 Spaito,16
 KIMHAMIN1227,16
 01917800000cheeta,16
-tureas,16
 nmnmnmnm,15
 Korean-1,15
 seongwongi,15
@@ -2505,3 +2505,4 @@ catdoggirlboy,1
 Richardiscool9856,1
 jason151202_,1
 guanzhong_me,1
+L_I_C,1

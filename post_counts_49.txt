@@ -455,6 +455,7 @@ REALchipflake,2
 Euzcom,2
 CuteRobot22,2
 T_cat9000_2,2
+Stanners2015,2
 -Syntax01-,2
 AJ9900775,2
 TheOpalofTopaz,2
@@ -472,6 +473,7 @@ kawan546gusthavo1234,2
 dizzyboy42,2
 -Animator_Mates-,2
 supremedev12,2
+32BuchAl,2
 zorket,1
 MrFlash67,1
 chacharosie8888,1
@@ -954,11 +956,13 @@ NeonG4,1
 LegoBrainBiker,1
 dj_greener,1
 Fefcical,1
+bluecat1002,1
 scrachy_boi4286,1
 TechNerd64,1
 bigpolo5,1
 Sparkly_Sequin109,1
 Zer0_YT,1
+arturo-mario-fan-2,1
 Sams-Cartoon-Lot,1
 Mystery96,1
 snailo2,1
@@ -1067,6 +1071,7 @@ DaJoisright,1
 catScratchhhhh,1
 anakgama,1
 undeterministic,1
+GauWasntFound,1
 ywps211203,1
 -cool-remix-,1
 draymondfu,1
@@ -1088,9 +1093,9 @@ Tu2tl3,1
 PAYpls,1
 Tre_brock,1
 RnGfOrLiVe,1
+Artem21072015,1
 doublec_squared219,1
 23mConnor,1
-Stanners2015,1
 Rosics,1
 mjk200,1
 PIXEL_BY_PIXEL_ERROR,1
@@ -1142,3 +1147,4 @@ TDSpro123321,1
 -ZaRumi-,1
 manwhalebluetable857,1
 riyu_pastel123,1
+funnycuny,1
