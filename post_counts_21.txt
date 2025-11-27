@@ -325,6 +325,7 @@ Pangolino2028,5
 leoballing_5,5
 Ciccio_81,5
 Alanto70,5
+Ciaone12,5
 FortnitePlayer6542,5
 joshuaho,4
 elv-eleonora,4
@@ -501,7 +502,6 @@ Brazil-Mapper,3
 demonishappy,3
 LUCALICONTI,3
 Silicom,3
-Ciaone12,3
 BongoScratch23,3
 colonel_white,3
 BluddyTV,3
@@ -740,6 +740,7 @@ maestraelisabetta,2
 ThePowerAtWork,2
 the_cheese56,2
 CureBlacksLegwarmers,2
+canifelici,2
 cheddargirl,1
 sparks,1
 andre_rifaut,1

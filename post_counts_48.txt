@@ -717,10 +717,12 @@ Windows_Simulations,3
 TealTheSprunki,3
 kahyreedre,3
 this_makes_no_sense,3
+CodeComet6161,3
 Michael_M_Games,3
 Scratchcat123000,3
 Elijah182016,3
 HailToTheKing2024,3
+tyler67760,3
 Firedrake969,2
 laser314,2
 scratchisthebest,2
@@ -1222,11 +1224,11 @@ carryondaksh133,2
 superMEGAqx123,2
 -WutThe-,2
 peppagactual3,2
-CodeComet6161,2
 tswift2018,2
 catcatcat-UwU,2
 GoodML,2
 TheIfBlock_onOperaGX,2
+octoviggintillion,2
 k_j_a-1,2
 kirbymetoo,2
 tkhalil357,2
@@ -2805,3 +2807,4 @@ pishi-ai,1
 CAPTAIN_RED_FARES,1
 idtechcodingclass,1
 im_a_cat2013,1
+Joeythedoombringer,1

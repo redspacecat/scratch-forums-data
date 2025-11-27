@@ -1004,6 +1004,7 @@ ponygod,2
 aaliyaan0110,2
 PCMicah,2
 sonicthegamer1234,2
+GAMERS_EDITION,2
 2DS_XL-JAN-001,2
 EKNHUJ_PENGUINS,2
 EpsilonX,2
@@ -2888,3 +2889,4 @@ happycat154939,1
 cwkharrison63142,1
 M5Gamers,1
 NYEH_HEH_HEHSFLBFIAU,1
+youwie_stay,1

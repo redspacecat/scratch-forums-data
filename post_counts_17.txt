@@ -249,6 +249,7 @@ Magister_Swinia,15
 Euglena73,15
 czech_inc,15
 Filetowy1,15
+TomJam13,15
 XCode123,14
 Fratel,14
 superwinder,14
@@ -265,7 +266,6 @@ ktostam129,14
 MRUCZEK_V,14
 helistworek,14
 hutsaloviaheslav1998,14
-TomJam13,14
 Tikolu,13
 Minecraftowiec,13
 Russian_Hero,13
@@ -314,6 +314,7 @@ PatMatematyk,12
 Inka_Plastikowa,12
 ElectricBoy2022,12
 SCP-nine-nine-nine,12
+Klockilego522,12
 gigant30009,12
 SMath_Geometry,11
 mateusz2004,11
@@ -374,7 +375,6 @@ kajtekambroziak,10
 filporzech,10
 Doricle,10
 Krzysztof-rysownik,10
-Klockilego522,10
 marek12306,9
 Sachamun,9
 mularek4444,9
@@ -551,6 +551,7 @@ Fajny_kot123,6
 OKreska,6
 zamekfr,6
 Stickmin11,6
+julciadawid,6
 iz0t0pic,5
 szogun,5
 corthell,5
@@ -1422,7 +1423,6 @@ kupa_247,2
 Miko5412,2
 Sobaka2022,2
 Ciuchciak2014,2
-julciadawid,2
 RoomsButDoors200,2
 virtualGrind,2
 LiFaytheGoblin,1
@@ -2572,3 +2572,5 @@ OhRooms-WhyBlood,1
 anualtosigma,1
 ser-masslany,1
 Hlp0,1
+Scary-70,1
+nijno0805,1

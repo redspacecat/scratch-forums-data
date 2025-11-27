@@ -35,7 +35,7 @@ pedrodrocafranco,53
 davilindo2022,53
 Lakzil,52
 taboa179,51
-MultiverseMikaels,49
+MultiverseMikaels,50
 Dude_Producoes,48
 calango_22_,48
 AndreoliBR,43
@@ -386,6 +386,7 @@ Bomberair,4
 2mais2ingual5,4
 indigomoondev,4
 SouRobloxAnimations,4
+VerdeSlime1,4
 Paddle2See,3
 clubpenguin552222,3
 macadam,3
@@ -767,6 +768,7 @@ gaalex16,2
 IncrediboxMods1,2
 thalesc,2
 zinho1010,2
+oi4535,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1556,3 +1558,5 @@ Mitts984_,1
 randomProgammerbr,1
 DiogoGoisSantana,1
 KlebzinhoGamer,1
+heitorcsilva,1
+Alpha_GamesTech,1

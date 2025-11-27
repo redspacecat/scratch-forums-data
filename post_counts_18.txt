@@ -1,10 +1,10 @@
-abee,15024
-inoking,14998
+abee,15028
+inoking,15000
 apple502j,5035
 ko2222,4479
 azennto,3929
 ryorozyo,3374
-Paddle2See,3164
+Paddle2See,3169
 itnkmkw,3114
 jitan,2898
 yukku,2527
@@ -40,8 +40,8 @@ foo-eta,1479
 gagagagagagagaqqww,1476
 jun50,1459
 Ke0,1440
+Yukihisa2022,1391
 mtaiking,1390
-Yukihisa2022,1387
 newmomizi_txt,1382
 magicAho,1331
 00giri,1301
@@ -109,10 +109,10 @@ kekelolo,599
 imoyokan,588
 watashida,577
 takasyu,576
-sei6sei,572
+sei6sei,573
 -Jikky-,566
 Bellomaker,566
-U-Y-Scratch,564
+U-Y-Scratch,565
 hirayuu1414,550
 ITM126,549
 robo_24,547
@@ -144,8 +144,8 @@ aochan,431
 miraran112,431
 omuomu_0602,431
 NIHONBO-RU,431
+yuito2013,430
 tyawanmusi,426
-yuito2013,424
 daihuku-otya,423
 oto213,419
 Xx_sandbox_xX,418
@@ -157,7 +157,7 @@ kaisuke9244,404
 qurlay,403
 reimu9568,399
 ILYW,398
-maikurakun_828,393
+maikurakun_828,397
 OryzaeA,392
 IRON-OWL,390
 takkun0530,387
@@ -168,7 +168,7 @@ wakisaka285,385
 pansuke,383
 TOMO1260,376
 tabakenn,376
-aalaalscratcher,366
+aalaalscratcher,372
 koukihasegawa,358
 daikikato,354
 lavender725,349
@@ -235,7 +235,7 @@ xiangyeng,259
 i8864_m,258
 nposss,258
 OMOTINANO,258
-Shunkacchi,256
+Shunkacchi,257
 ringo2go,254
 rinasama_tabasi,252
 saya1229,251
@@ -254,10 +254,10 @@ kuretaka,234
 koo2412,233
 Arcade_Creator0123,231
 Yellow_Apple,231
+GHKk_99,229
 korokoro19,227
 shun777,226
 oohara1910,226
-GHKk_99,226
 kinnniku_pi-mann,225
 _NANO--o0o_,223
 kntnkmr,223
@@ -324,10 +324,10 @@ toyox,177
 Yuichiro_,177
 ZIKKEN_KING,177
 tesu2067,177
+rrrrrrrrrrhhhhht,176
 2014049mame,175
 Reshie,174
 scorpius98,173
-rrrrrrrrrrhhhhht,172
 ichig,171
 midhgardhr,171
 konnbusann,171
@@ -347,6 +347,7 @@ NT_ZZzz,166
 JirenGames,166
 S-1014,166
 henji243,166
+mashu_Official,166
 waraku,165
 supersaiyajin0213,165
 cachecache,165
@@ -366,15 +367,14 @@ hakumaidaisuki,160
 denkyu,160
 Madder-scratch,160
 KiHa_47Kei,160
-mashu_Official,160
 kakegame,157
 kunisan19go,157
 10coin,157
 anmonaitosan,157
 nisinaofumi,157
+mokun12,157
 syun6424,156
 scratchETC,156
-mokun12,156
 komukai1,155
 tomohiro0405,154
 9r1y3o,154
@@ -419,8 +419,8 @@ hanya326,131
 tetudouieee,130
 0034296pika,129
 dj-YakoChite,129
+LittleGreyCells,127
 julythreethrty,126
-LittleGreyCells,126
 yu_sukeGO,125
 Scratchnosekai,125
 k978y,124
@@ -472,6 +472,7 @@ LightningJames,111
 daiya23,110
 rasococo,109
 haruharu9,109
+pnyonyy,109
 Kuronekomen,109
 HARUHITOGAMES,109
 Main18,108
@@ -479,7 +480,6 @@ burosu,108
 scratch_japan,108
 patazero-0,108
 chawami2,108
-pnyonyy,108
 sodamacky,108
 yujin_iide,107
 pino0917,107
@@ -551,10 +551,10 @@ kana-nkanakaite,88
 Citroen-Survolt,88
 magicecho,88
 AK_ch,88
+haws0873,88
 latias1222,87
 -GUI--CUI-,87
 yuuma0523yui0929sora,87
-haws0873,87
 ysk11082,86
 p-and-a,86
 Firecraft_01,86
@@ -661,6 +661,7 @@ hasu0520,71
 hatanesan,71
 atto0519-Scratch,71
 Odakyu21,71
+-SukuCat245435-,71
 Saku_H,70
 tomorin221,70
 tera98,70
@@ -668,7 +669,6 @@ miiby5591,70
 miko974,70
 tomatomann00000,70
 yutoojichan,70
--SukuCat245435-,70
 NI-HARU,69
 kirito_0622-sub,69
 amami,69
@@ -739,8 +739,10 @@ micotomica,62
 tohero,62
 KTR2030,62
 ioringo080,62
+Koneko_koko-2,62
 Blackhanter,62
 Kanamachi21,62
+_0xfffrog-,62
 Lily-co,61
 momomou,61
 K-iron,61
@@ -749,8 +751,6 @@ harumaki0141,61
 l___coconut___l,61
 Photo-Potato7233,61
 buusi,61
-Koneko_koko-2,61
-_0xfffrog-,61
 tomato_curry,61
 qramo,60
 NanashiihsanaN,60
@@ -760,6 +760,7 @@ syokakl,60
 zisinnkowa,60
 karaagesankaku,60
 darjeeling_tea,60
+Ringosan777,60
 ytakada_dc,59
 yuina_iwasa,59
 iSocialnetwork,59
@@ -785,7 +786,6 @@ kazuharumann,58
 sorehaikenaine,58
 papa1234pa2,58
 bit_tenma,58
-Ringosan777,58
 tymgtm2,57
 ywd800,57
 macpotato,57
@@ -907,6 +907,7 @@ harukuratti,47
 bantecGG,47
 zouni1-23,47
 Higuma_san,47
+kaki_jp,47
 shun7,46
 a_oki_nkmr,46
 penpen1112,46
@@ -986,6 +987,7 @@ GAMELABO,42
 -ryo-pe-run-,42
 ose-na,42
 train8500,42
+-_-sans_1,42
 bunka-6,42
 satan7220,41
 MMGISS_sub,41
@@ -1007,7 +1009,6 @@ dragonZ124polandball,41
 puluma,41
 hanamaru10,41
 lpv_vql,41
--_-sans_1,41
 KAZUSUKURATTI,41
 Scratch-1106,41
 takaball1116,41
@@ -1032,6 +1033,7 @@ skksdjksjd,40
 nash-gogo,40
 01234qwert56789yuiop,40
 windows2000-Me,40
+e1bfd762321e409cee4a,40
 ryuusinn,39
 Yarto,39
 Nyancoro,39
@@ -1074,7 +1076,6 @@ n-yutan,38
 akasakamitsuke,38
 yahhi3110,38
 211-LL20gasukinahito,38
-kaki_jp,38
 greenowl5,37
 kaonagaarasi,37
 mie-mie,37
@@ -1111,7 +1112,6 @@ asatomo303,36
 1998ky262,36
 H-C-84,36
 osusi675,36
-e1bfd762321e409cee4a,36
 kazu1125,35
 LEGOnosuke,35
 suujikunn,35
@@ -1124,6 +1124,7 @@ hatoribonn,35
 GYOZAZA,35
 anbe---,35
 Kaz_Noko,35
+3023TOMO,35
 narita6gou,35
 althuyeah,35
 yukito0616,35
@@ -1163,12 +1164,12 @@ yuuma-sab,34
 DF_64bit,34
 rikipr,34
 23hayabusa,34
+RICE-MAKER,34
 dannti425,33
 saho2015,33
 kesarenai,33
 smpro2020,33
 aoto078,33
-3023TOMO,33
 haha0-0-0-0-0-0-,33
 punipuni5854,33
 sholego,33
@@ -1176,12 +1177,12 @@ qsahgisgdfiyqiet,33
 ka-yamakun,33
 edamamesuki,33
 kicrage_games,33
+lower50stone0,33
 Water_Crown,33
 kanntasukenosekai,33
 sian12344,33
 kota0315,33
 soma_le,33
-RICE-MAKER,33
 Mad_kitten,32
 s00384206,32
 borotto,32
@@ -1208,6 +1209,7 @@ Murasakineko_Pinkcat,32
 sub-tya-hann,32
 Picture_series,32
 rannbo0115,32
+kur0nekop0315,32
 frou01,31
 2618-full,31
 asinagakomimibatiko,31
@@ -1226,13 +1228,13 @@ Japan-Scratcher,31
 yagick,31
 TTJJC,31
 r_1000,31
-lower50stone0,31
 p41d09d6,31
 RenTa55,31
 yc98,31
 syhisa5656,31
 error-the-404,31
 POP-COM,31
+sannta46,31
 6ranger,30
 amagappa,30
 tamotamo0530,30
@@ -1254,7 +1256,6 @@ hankyurenmei3,30
 tea_and_travelers,30
 dgakjdjoa,30
 karaagekun_77,30
-sannta46,30
 yukari76,30
 Hiroki-Nakayama,29
 ankoromoti,29
@@ -1320,6 +1321,7 @@ syun1116111,28
 tattun1222,28
 yama918,28
 r442tw12,28
+chona2021,28
 mechanism-workshop,28
 hokuto_sitisei,28
 ma-sa-Games,28
@@ -1328,7 +1330,6 @@ tumaranaimono,28
 adachieiji,28
 __noob,28
 masaandkeigo,28
-kur0nekop0315,28
 happy-happy7,27
 scorpiusantares,27
 tarby2002,27
@@ -1359,7 +1360,6 @@ natto-taxi,27
 muriyoudesu,27
 youtarozo,27
 Sandten-Train,27
-chona2021,27
 daininozinnsei,27
 tyokodona,27
 Sigemaru,26
@@ -1401,6 +1401,7 @@ RINIAHANATIHA,26
 yanagisann,26
 YAIBA1112,26
 shunshun16,26
+ramon6174,26
 Gamecenter,25
 sachi218,25
 manamahage,25
@@ -1479,9 +1480,12 @@ abcdefg_Yumirin,24
 Shikanoko-Nokotan,24
 Xx_tenma_xX,24
 tatuharuyuta,24
+nozotti0909,24
 simanohome,24
+tonairo12,24
 YU1000,24
 yukari76_sub,24
+marikoonkyou,24
 manboo,23
 Creator32,23
 senbokuraina-,23
@@ -1540,10 +1544,7 @@ ScratchCatGoboNano,23
 syu2010syu,23
 chichinnpuipui,23
 mizu_neko_anime,23
-ramon6174,23
-nozotti0909,23
 yakitori10-10,23
-tonairo12,23
 wawawa_niconico,23
 tadanoippanzin2,23
 8zi8ppunn,23
@@ -1588,6 +1589,7 @@ Tofu_fufufufufufufu,22
 neko0127,22
 kotoridaisuki,22
 tukinyan12,22
+yugo1006,22
 whomean,21
 mickey480713,21
 7o8,21
@@ -1631,7 +1633,6 @@ cocoa1484,21
 yukkuri-marisa0630,21
 ameaya0w0,21
 YAZYUUSENPAI_114514,21
-yugo1006,21
 minepra,21
 toukaidou-231-1000-3,21
 2014hayahaya,20
@@ -1965,6 +1966,7 @@ aqumia,16
 zanhyou,16
 SouSouSou-SSS,16
 2089387sub,16
+frisk-scratch,16
 Ringochoco,15
 wwyo,15
 pupuiproject_sub,15
@@ -2056,8 +2058,12 @@ scratch-zsw,15
 nansisan,15
 utina-ntyu,15
 maple_tayama,15
+scratch-DAISUKI-dayo,15
 the_programmer_cat,15
 U-Y-Scratch2,15
+hechima_,15
+kurosio-ZP,15
+kinugasa201595,15
 135yshr,14
 G_Owl,14
 YOSHITAMAG,14
@@ -2162,14 +2168,11 @@ game_zenon,14
 oage_beta,14
 yesterdaykaeritai,14
 GodMonkey1107,14
-scratch-DAISUKI-dayo,14
 tsumu_ann,14
 gannbaru306,14
 King_S-C,14
 happyhappyioringo,14
-kurosio-ZP,14
 tofu13120,14
-kinugasa201595,14
 tensaiotoko,13
 Mocchan,13
 kawaken,13
@@ -2405,9 +2408,11 @@ toukaidou-E231-1000,12
 TOMO3104,12
 haruki0301,12
 kamitai2025,12
+K-ver,12
 dragon_sub,12
 Zei_Para,12
 puroge_the_cat,12
+6kr1,12
 korokkeman,12
 DeliciousTacos_S,12
 digitarhythm,11
@@ -2559,6 +2564,7 @@ doraemonn26,11
 tetuota88,11
 kodmann2,11
 20s100211,11
+scratch_scratch-_,11
 harunatuaklhuyu,11
 yutokun0715,11
 Senri_Central,11
@@ -2570,7 +2576,6 @@ TMK921,11
 tanosii13,11
 mu_me_i_,11
 saikou-r-4682,11
-6kr1,11
 aquos,10
 kazu2003,10
 hrmyk_m,10
@@ -2730,9 +2735,9 @@ Daijyuhamster,10
 tomakare,10
 nagoya-no-toritetu,10
 rice-people,10
+makatsu,10
 shadowfeatherp,10
 moto0302,10
-frisk-scratch,10
 ynomura,9
 sei1,9
 PlaySoul,9
@@ -3178,7 +3183,6 @@ yuitennpura,8
 eidayo,8
 tonnkatuteacher,8
 kobamechi,8
-scratch_scratch-_,8
 harusuke1116,8
 ganbit0707,8
 -ashura-_,8
@@ -3196,8 +3200,8 @@ mike_jikyoukyoku,8
 SABURATTYA,8
 SSharurun,8
 gameman-dayo,8
-hechima_,8
 obu007e,8
+sukuranohito,8
 cheddargirl,7
 Penguinhk,7
 aki-w,7
@@ -3493,6 +3497,7 @@ akitoakky,7
 kaisuku9029,7
 dagoziru,7
 SYOUYUMOTI1,7
+yukiti27,7
 te-pi-,7
 sukeppy,7
 -_nnnnnnnnnnnnnnnn_-,7
@@ -3517,13 +3522,11 @@ souma0914,7
 haru_iwa_8619,7
 panda3250,7
 m1m1syatyou792,7
-makatsu,7
 gyyfyd,7
 Gengen1717,7
 souta0504m,7
 tyosakukennng,7
 huuma1007,7
-sukuranohito,7
 LiFaytheGoblin,6
 yamato719,6
 hurou,6
@@ -3822,6 +3825,7 @@ kosi535,6
 ka-hi7777,6
 enjoy-kirby,6
 DMabc,6
+TAMAGO55,6
 Sheru-Masyu,6
 neoYouTube,6
 watti-,6
@@ -3882,8 +3886,8 @@ hikomaru0702tensai,6
 yokotantanmenn,6
 miniLoki_zx_jp,6
 hojoke,6
-K-ver,6
 neko_121,6
+zibure,6
 -_-kakigoorioisi-_-,6
 mmjkamo,6
 yu-za-mina,6
@@ -3895,11 +3899,14 @@ yananeko,6
 suitti2atatta,6
 syanderapokemon,6
 yuusei0001,6
+megane989,6
 WeatherLink,6
 -Chara__,6
+bezi-ta9,6
 mayo-cocon,6
 Tkauti8211,6
 nichimuru,6
+ZZzzzz_2012_11_15-3,6
 mudpie446,5
 ykoubo,5
 galois_bach,5
@@ -4364,7 +4371,6 @@ nsxtype-s,5
 YankeeKong0111,5
 kei5sai,5
 onepiece2012,5
-yukiti27,5
 kame0826,5
 manrappi,5
 Z_ongs,5
@@ -4392,7 +4398,6 @@ Gate110,5
 611art,5
 youmu39493,5
 youmu-kami23,5
-zibure,5
 ---fast---,5
 y25107a,5
 parukuru,5
@@ -4407,11 +4412,11 @@ osarurio,5
 kanta_dayo21uyi,5
 euzabc,5
 NT-Scratch-,5
-megane989,5
 gokiburidaisukiman,5
-bezi-ta9,5
 IamCherryKirby,5
+scratcher_easy,5
 ueru-sousou,5
+tsukebo_sumajan,5
 ErnieParke,4
 solla,4
 stories31,4
@@ -4963,7 +4968,6 @@ e--san100,4
 nishiyan1115,4
 momonga0722,4
 0504AKUWASASUME,4
-TAMAGO55,4
 cat-dayo,4
 ma-ta018,4
 paipukun,4
@@ -4999,6 +5003,7 @@ ma-kun-ma-kun,4
 utao-ji,4
 Rakunatto,4
 __HJinroE__,4
+sa70119,4
 moti-neko--,4
 TANPEKEI,4
 mijyoin,4
@@ -5077,9 +5082,11 @@ series10000,4
 kenreiwa2hakamidatta,4
 kakiorange,4
 3600EDN_Yukkuri,4
+unagi-group,4
 XIJANG,4
 nya-S_6haya,4
 ramenswich,4
+ikainku,4
 scratcherHR,4
 rukamodorritti,4
 Roito-1028,4
@@ -5088,7 +5095,7 @@ PuhiTaro,4
 hituzineko2,4
 yu52510525,4
 itarukondo,4
-scratcher_easy,4
+XZ-ryuuto,4
 penta27,4
 kyu_zzz,4
 bokudesukedo_nanika,4
@@ -5096,6 +5103,7 @@ Nao435,4
 ZelphaValkes,4
 abkabo,4
 31iisonat,4
+kannmi-,4
 aikuri,3
 masatoh,3
 ryuji2014,3
@@ -6147,7 +6155,6 @@ game-sss,3
 haniwasaiko-,3
 akki-0222,3
 UT0315,3
-unagi-group,3
 mistaaM,3
 kokop18,3
 ktoj00005,3
@@ -6167,11 +6174,13 @@ kiwi5604,3
 kami-god_sora,3
 Ryouse1,3
 Styrofoam64,3
+yu-to106,3
 Professor_Yuta,3
 archi400,3
 5-4-ON,3
 531_231,3
 pikapika224,3
+AZINOMOTO-20_RE,3
 kentyman3-3,2
 kano-e,2
 masaishi,2
@@ -7669,7 +7678,6 @@ salad_tv,2
 yeomu-08,2
 DAITOUAKYOUEIRENPOU,2
 yuyuka0602,2
-sa70119,2
 -Lemo-,2
 kawakichi555,2
 hgkkj,2
@@ -7978,7 +7986,6 @@ OHTANISHOHEY17,2
 kanmaru0929,2
 matatabineko1,2
 naktai,2
-XZ-ryuuto,2
 da-sudeida-,2
 PcoDX,2
 tikugamiks0601,2
@@ -7998,10 +8005,8 @@ pasokonkaenai,2
 IIlIIllIl,2
 Class_PV,2
 cos_-ilnx_,2
-AZINOMOTO-20_RE,2
 syo-ryu_851,2
 ikkunn8907,2
-tsukebo_sumajan,2
 zsiegel,1
 sparks,1
 Rumanti,1
@@ -12123,3 +12128,11 @@ su_shi_0isi1,1
 syoma1124,1
 tetudou564,1
 NCYO,1
+Seijiro1003,1
+ritu916,1
+kenpi0926,1
+PopOPop0PopOPop0,1
+tennnouheikabanza-i,1
+TQ-2,1
+mikandaisuki01,1
+puropiyo16,1

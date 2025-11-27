@@ -519,6 +519,8 @@ Zauberlehrling62,5
 mapabeha,5
 Profikratzer1307,5
 Riesenotter,5
+BikerAlt,5
+MothAvi,5
 Norbiss,5
 mschlager,4
 water_kangaroo11,4
@@ -616,7 +618,6 @@ twzf2ugbvew,4
 Scratchkatze72,4
 FluffyPenguin247,4
 salzigeFluessigseife,4
-BikerAlt,4
 stNikitos,4
 unkownlegand,4
 napcat223,4
@@ -627,9 +628,9 @@ Paulo_Scratcher00,4
 CatCoda12,4
 dobi-Soft,4
 Irooonmannnn,4
+maker_mind,4
 lego_figur_213,4
 Fledermaus08,4
-MothAvi,4
 maltesime,3
 Greygraphics,3
 Sabalot,3
@@ -797,6 +798,7 @@ Cat27082024,3
 HannaIsALittleRabbit,3
 EundJ,3
 U-A-M-Firma,3
+Firearehot,3
 bennono14,3
 DIY,2
 TenYoung,2
@@ -1170,7 +1172,6 @@ AnArtistGame,2
 HillelSafran,2
 teamht777,2
 zop890i9_roblox_com,2
-maker_mind,2
 PrivateScratchLehrer,2
 MasterWu1-2,2
 JaspertheGamer23,2
@@ -2078,7 +2079,6 @@ Aaronzocke,1
 dschmidt311,1
 Lucky_Number_3,1
 TutorLurdumolochTest,1
-Firearehot,1
 Miniondude2508,1
 Ginny___Potter,1
 Kristalungeheuer,1

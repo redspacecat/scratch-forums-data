@@ -221,6 +221,7 @@ aytakzandi36,3
 ScratchcatandGobo,3
 BestImpostorOfAll,3
 DR-100315,3
+gem1001,3
 wvj,3
 dev_chi,3
 PenguinLover1123,3
@@ -393,7 +394,6 @@ justdoscratchYT,2
 AgentChewer,2
 Olivia4p,2
 merved01,2
-gem1001,2
 PinkMathReadCat,2
 Unithlees3,2
 An0therRand0mC0der,2
@@ -411,6 +411,7 @@ l3itox,2
 Sonictheprogrammer,2
 Sid1409,2
 ColDumdum,2
+nieh444,2
 HardLeveler,2
 craftman12,2
 calvrett_1,2
@@ -1085,6 +1086,7 @@ BlueyFan75000,1
 7Phyzon,1
 jelte1908,1
 happydog890,1
+ZzSays_Season1,1
 GamerDAC,1
 H__4,1
 Pashes1,1
@@ -1148,3 +1150,4 @@ TDSpro123321,1
 manwhalebluetable857,1
 riyu_pastel123,1
 funnycuny,1
+chefseth_ALT,1
