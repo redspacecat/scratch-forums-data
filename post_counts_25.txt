@@ -155,6 +155,7 @@ Mikrodenetleyici_02,12
 Selin_Yasar,12
 NASAHALUK,12
 MrBugickk,12
+Tunaagirbas,12
 StormLegoBricks,12
 huuuuuuuurrrrgh,11
 Gorunmez_adam,11
@@ -167,7 +168,6 @@ Begonya_123,11
 dogaperisi,11
 erencemaltay,11
 masallah_kodluyorum,11
-Tunaagirbas,11
 AlperTEAMoffical,11
 EgemenUtangan2015,11
 Danger07,10

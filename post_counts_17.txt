@@ -9,7 +9,7 @@ j_a_n_t_i,548
 Antek_W,535
 HappyCat460,440
 Socul,381
-kuba5509,326
+kuba5509,327
 OpiGames,316
 petarda_1234,304
 filiputek531,275
@@ -94,10 +94,10 @@ Samizarius,47
 anonimur,46
 Antikek321,46
 wikolego,45
+Igisuper,45
 Srebrny,44
 I-love-mathematik,44
 MatoStato,44
-Igisuper,44
 HeroGulki,42
 k4cper346,42
 Polish_hacker,41
@@ -266,6 +266,7 @@ ktostam129,14
 MRUCZEK_V,14
 helistworek,14
 hutsaloviaheslav1998,14
+Klockilego522,14
 Tikolu,13
 Minecraftowiec,13
 Russian_Hero,13
@@ -314,7 +315,6 @@ PatMatematyk,12
 Inka_Plastikowa,12
 ElectricBoy2022,12
 SCP-nine-nine-nine,12
-Klockilego522,12
 gigant30009,12
 SMath_Geometry,11
 mateusz2004,11
@@ -772,6 +772,7 @@ Cat_new_152,4
 DAlYSZ,4
 nightman6565,4
 dlugamarta,4
+--puka--,4
 occiell,4
 Kacperczuh_Pospolity,4
 lll256,4
@@ -977,7 +978,6 @@ auis-sus,3
 _Dogs_and_Cats_,3
 Vinipedia,3
 Milek988,3
---puka--,3
 EeveeKittiScratch,3
 Antonix_S,3
 Blanka_Kot,3
@@ -1417,6 +1417,7 @@ Kuleczka2674,2
 Ludzicz,2
 gfg207,2
 tymekmrugalski,2
+wjsstudent48,2
 zamink,2
 ijj666,2
 kupa_247,2
@@ -2551,7 +2552,6 @@ jajko_13,1
 ex_50,1
 geniu222,1
 Pszemek8,1
-wjsstudent48,1
 Szymcat,1
 Szymon_________,1
 hudart97,1
