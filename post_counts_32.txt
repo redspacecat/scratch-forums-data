@@ -67,6 +67,7 @@ TurtleLegos,9
 scaryghost14,9
 bananamouse24,9
 dariencool,9
+cheddargirl,8
 ipadgeust,8
 pastelistic,8
 UhhLegoboy,8
@@ -80,7 +81,6 @@ tomtom2009,8
 brillaoscoder,8
 ST36_Programmer,8
 AndrewB1501,8
-cheddargirl,7
 Sonickyle,7
 goldfish678,7
 stampcollector,7
@@ -1015,6 +1015,7 @@ robotz-the-crazy,2
 moonweeper,2
 beansWithTheBeans,2
 ScratchUSSR,2
+SWEMA,2
 JJROCKER,1
 stevetheipad,1
 sparks,1

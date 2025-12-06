@@ -14,7 +14,7 @@ _nix,20
 NoMod-Programming,19
 kyleplo,19
 -gr,19
-Paddle2See,17
+Paddle2See,18
 ZZC12345,17
 dhuls,14
 Bennudabomb,14
@@ -233,6 +233,7 @@ HeHeTeeHeeHee,3
 bazooka-nuke,3
 hockicat29,3
 4wngregus1,3
+MagicCoder330,3
 dynamicsofscratch,3
 floppasyay,3
 twig_thedeerfox,3
@@ -442,6 +443,7 @@ FatninRaihah,2
 scratcherokay,2
 LemonDoge_YT,2
 armaan2014,2
+superbluigi,2
 EngineerRunner,2
 Create-Scratch101,2
 MintSafe399386_1,2
@@ -974,7 +976,6 @@ FireStar2424,1
 Valleri45,1
 HappyPandaKoala,1
 abubriski,1
-MagicCoder330,1
 DMU_Mapping,1
 HoitSniper,1
 ScratchCat-Master,1
@@ -1034,7 +1035,6 @@ imakegameslol88888,1
 scratchahamed,1
 intmediatething1289,1
 xxxroosexxx,1
-superbluigi,1
 NoisyBigEyes,1
 Bacon1218,1
 stopthelittleengine,1
@@ -1150,5 +1150,9 @@ TDSpro123321,1
 -ZaRumi-,1
 manwhalebluetable857,1
 riyu_pastel123,1
+mira_the_moth,1
 funnycuny,1
 chefseth_ALT,1
+SWEMA,1
+GRUBGRUBGRUB,1
+FireDude520,1

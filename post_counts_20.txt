@@ -82,13 +82,13 @@ GAMEMAKERPV,19
 Neon12345,18
 bibifumaca,18
 pedroGAMES2011,18
+Tankmandadoriginal,18
 dompedro32015,18
 Bianca36bucket,17
 Kaiak139,17
 leogames2016,17
 PeksJV,17
 AdultSystems,17
-Tankmandadoriginal,17
 Napstablok,16
 M-agia,16
 Lhamamoon,16
@@ -162,6 +162,8 @@ zoepapyoo,10
 lucasbarcelos1993,10
 ProjetosPT-BR,10
 fusca_azul_caos,10
+dani665gt,10
+hiiiimmateus,10
 Mander_Gamer,9
 profbirabj,9
 Hypee11,9
@@ -179,7 +181,6 @@ ScratchESR,9
 jmjose7c,9
 HenriqueGramasco,9
 CardsUp,9
-dani665gt,9
 nigthmareoficial,9
 anony193,8
 rubaolima,8
@@ -205,7 +206,6 @@ BIIBEE,8
 IS_THE_XSTRIKERX,8
 theorcaroxo435new,8
 chewiblumii-uwu,8
-hiiiimmateus,8
 Vrabb,7
 mubo5,7
 gugulatavo,7
