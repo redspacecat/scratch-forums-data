@@ -1,4 +1,4 @@
-henrick9,1360
+henrick9,1362
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
@@ -35,7 +35,7 @@ pedrodrocafranco,53
 davilindo2022,53
 Lakzil,52
 taboa179,51
-MultiverseMikaels,50
+MultiverseMikaels,51
 Dude_Producoes,48
 calango_22_,48
 AndreoliBR,43
@@ -129,6 +129,7 @@ godinho1,12
 oibetolino,12
 chach_ScuareCat,12
 lolo-ALT,12
+dani665gt,12
 10joaozinho10,11
 Benur21,11
 rafaelstanesco,11
@@ -145,6 +146,7 @@ carroqualquer,11
 Nenorzin,11
 kaelfofo,11
 trimnaAalopido,11
+hiiiimmateus,11
 fupi437,10
 martinking,10
 Pinguim10,10
@@ -162,8 +164,6 @@ zoepapyoo,10
 lucasbarcelos1993,10
 ProjetosPT-BR,10
 fusca_azul_caos,10
-dani665gt,10
-hiiiimmateus,10
 Mander_Gamer,9
 profbirabj,9
 Hypee11,9
@@ -258,6 +258,7 @@ biibeebackagain,6
 oanimador2,6
 Salvasconcelos2014,6
 gand7c,6
+VerdeSlime1,6
 PrincessPanda_test_,5
 Josimarjunior,5
 meringo,5
@@ -314,7 +315,6 @@ arthur35498,5
 LUKCEIDE,5
 Bola65Top,5
 lulisb,5
-VerdeSlime1,5
 Pitusky12,4
 hermanne,4
 barichello,4
@@ -765,8 +765,10 @@ estudante_08_8d,2
 henriplay77777,2
 Gabi2012TheCreator,2
 click_anamations,2
+rafaelly1234cat,2
 gaalex16,2
 IncrediboxMods1,2
+jamalito15,2
 thalesc,2
 zinho1010,2
 oi4535,2
@@ -1516,6 +1518,7 @@ estamos12,1
 MariobrosDino007,1
 EuSouNADA-_-,1
 joaofloquinho,1
+Nathanzchrestani,1
 amongls,1
 Israeljogador,1
 Rabac2,1
@@ -1545,13 +1548,12 @@ Bkm_Studio,1
 Fitwarrior1v4,1
 carlitosbr,1
 MJFanForever477,1
-rafaelly1234cat,1
 Profa_Suzi,1
 CreeperPow,1
 piolhocriativo,1
 astr01512,1
 marcelo8bits,1
-jamalito15,1
+isabellamtk1,1
 BleckSTUDIO,1
 Daniel2Gameryt,1
 Mitts984_,1

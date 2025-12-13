@@ -138,6 +138,7 @@ Jojo1684,4
 ScratchMASTR21,4
 yeetis1243,4
 A-MARIO-PLAYER,4
+MagicCoder330,4
 wetogeter,4
 -Bampi-,4
 MaybeARandomFox,4
@@ -233,7 +234,6 @@ HeHeTeeHeeHee,3
 bazooka-nuke,3
 hockicat29,3
 4wngregus1,3
-MagicCoder330,3
 dynamicsofscratch,3
 floppasyay,3
 twig_thedeerfox,3
@@ -247,6 +247,7 @@ ZefunGR,3
 breakfast_for_dinner,3
 scarysailor568,3
 _0xfffrog-,3
+-WildFireStudios-,3
 Reyuscratch,3
 AceTheGamer444,3
 LiFaytheGoblin,2
@@ -374,6 +375,7 @@ EnterpriseAnimations,2
 Firesoldier999,2
 TheGlassPenguin,2
 asterix1gaulois,2
+h0po0,2
 RichieNB,2
 oatnikvonoat,2
 cs8273619,2
@@ -469,7 +471,6 @@ CapybaraplatypusJPM,2
 d016,2
 LinkMHE4,2
 zallynotfound,2
--WildFireStudios-,2
 Awesome-maker357,2
 32kelbt,2
 -_BT-and-Equal_-,2
@@ -1061,6 +1062,7 @@ The_king_of_nothing,1
 Spentiline,1
 MathKing08142013,1
 BA4X,1
+THEULTRAKID,1
 catmachine109,1
 Eyes-Chan,1
 MrThreeHP,1
@@ -1122,6 +1124,7 @@ AmpElectrecuted,1
 pursuiter,1
 incremental-infinity,1
 meercat213,1
+rexygames13,1
 Persvicx,1
 -Kat_Kafe,1
 Sonictheretake,1
@@ -1141,6 +1144,7 @@ zephyr12_,1
 rareredx,1
 -_-prieansh-_-,1
 retro2D,1
+JInx_Creates,1
 MOFEABI,1
 sprunkifan2007,1
 KingCayen011-ALT,1

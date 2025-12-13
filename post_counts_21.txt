@@ -214,6 +214,7 @@ RyuTommaso,8
 Antogrammer,8
 XCreatore10,8
 Giuggiala,8
+esci_da_sto_profilo,8
 Katerina_Alex,8
 Raffaele2015,8
 Sebit,7
@@ -230,7 +231,6 @@ Dani10Juve672,7
 CIAO32,7
 PM075,7
 Tor001gamer,7
-esci_da_sto_profilo,7
 blackmamba85,7
 sort-by-oldest,7
 mateoxxx22,7
@@ -1353,6 +1353,7 @@ TheBoomGames,1
 pitchproductions,1
 alessiofaranna,1
 Olivier_Giroud9,1
+HYTHON123,1
 OHMYPC2025,1
 pdilvc20,1
 CATBLUE976,1
@@ -1367,3 +1368,4 @@ gppdnz,1
 Axicute,1
 CartoniBrutti,1
 tea-manga_,1
+gabrielefinessi,1
