@@ -1,4 +1,4 @@
-Paddle2See,656
+Paddle2See,657
 ErnieParke,377
 boom2ratz,273
 Nether_before,264
@@ -10,7 +10,7 @@ Harakou,195
 MrFluffyPenguins,184
 theforgottenwisp,179
 East105A,177
-Koamodo975,149
+Koamodo975,152
 muellly,143
 makethebrainhappy,142
 Super_Scratch_Bros20,133
@@ -26,7 +26,7 @@ Felgrim,97
 BereketY,89
 -ShadowOfTheFuture-,89
 -ElectricBoy-,86
-cosmosaura,77
+cosmosaura,78
 CapeMan1008,76
 superphill1,76
 Troyer_Kem,76
@@ -37,6 +37,7 @@ sourcemusic_,70
 joshuaho,69
 The_Blue_J,69
 AwesomeUser23,69
+SockAlternative,68
 -Astr0-,67
 Banjo_Productions,67
 Superandultra,66
@@ -54,7 +55,6 @@ Cazoy,62
 Owlwhisker,61
 Kitten-da-Cat,61
 Crispydogs101,61
-SockAlternative,61
 Hagrid32,60
 matey1234,59
 Misty_Air,59
@@ -150,19 +150,22 @@ MattcraftGaming,39
 TheFazbearsReact,39
 PraCoco,39
 k0d3rrr,39
+orrymor,39
 TheNoise2023,39
 Clyde_The_Coder,39
 JamesOuO,38
 CatsUnited,38
 Cats758200,38
 Nuclear_Melon,38
-orrymor,38
+-ThatOneGuitarist-,38
 shoresbeep,37
 LakeOtis,37
 Birdart,37
 BreadAnimator,37
+Scratch_Cat_Coder8,37
 tanmanshum,37
 MegiumZ,37
+zephyr12_,37
 meowflash,36
 Wahsp,36
 nigelraj620,36
@@ -171,10 +174,8 @@ sylveonsweetie987,36
 kitty_coolness_123,36
 ringoumai,36
 jellybeansjellypets,36
-Scratch_Cat_Coder8,36
 TheUltimateHoodie,36
 DogeMeowy,36
-zephyr12_,36
 Firedrake969,35
 garrh,35
 YubNubEwok,35
@@ -208,7 +209,6 @@ Jbear_,33
 Platypus_WKeyboard,33
 TheBlubStudios,33
 michaeljackson1365,33
--ThatOneGuitarist-,33
 liam48D,32
 lol90,32
 sophiasrivastava,32
@@ -257,6 +257,7 @@ SpyLion,30
 The_Game_,30
 themasterofmario16,30
 MarioLover19851981,30
+SirPiggg,30
 kamuimaru,29
 tacky365,29
 tigergirlG,29
@@ -304,7 +305,7 @@ rosetteu-,27
 Aneri9714,27
 subjectnamehere,27
 BigNate469,27
-SirPiggg,27
+dem_bot,27
 goldfish678,26
 Bennett535jc,26
 bookworm7214,26
@@ -381,7 +382,6 @@ Spentine,23
 lion334,23
 cookieclickerer33,23
 Mikhael-_-,23
-dem_bot,23
 k9lego,22
 BY147258369,22
 miles854,22
@@ -496,6 +496,7 @@ ajotr,20
 drumrollowl120,20
 wolfyy23,20
 -BobToons,20
+DarkTypeTrainer,20
 Imaginos,19
 Scratch12300,19
 DotDash,19
@@ -738,8 +739,10 @@ pugusialove,16
 16-BitMario94,16
 MillionOfficial,16
 -UntoastedToast-,16
+HannaIsALittleRabbit,16
 Green_rev,16
 quinti11i0n,16
+kansees,16
 turkey3,15
 Gaza101,15
 mario91100,15
@@ -824,8 +827,6 @@ StarWalker600,15
 hopperthegoat,15
 TheDiese,15
 Oneshot_Enthusiast,15
-DarkTypeTrainer,15
-kansees,15
 kayybee,14
 PreoKid,14
 AProductions,14
@@ -928,7 +929,6 @@ fghjkld,14
 chessisthebestgame,14
 green-racer,14
 juni128981,14
-HannaIsALittleRabbit,14
 jaxattack71113,14
 -Kat_Kafe,14
 someone_2,13
@@ -1348,6 +1348,7 @@ CatManCool223,11
 SpaceBar265,11
 Tq575,11
 jomama0987,11
+sirpigg_fan,11
 chocolatepenguin,10
 Tierage,10
 codes321,10
@@ -1843,6 +1844,7 @@ NateCoder2021-Alt,9
 legoislife11,9
 thenumberblockslove,9
 SpyCoderX,9
+31cam3b,9
 1357carOred,9
 -Turtle-Coding-,9
 talented-cookie,9
@@ -1864,7 +1866,6 @@ lennoxgmr2,9
 worm4books,9
 murilosmicrowaveboi,9
 narwhalclan,9
-sirpigg_fan,9
 scratchisthebest,8
 jerry1000,8
 poniesareso,8
@@ -2193,7 +2194,6 @@ Tamagotchifan5,8
 AgentDarkFish,8
 BrilliantStar114,8
 MineTurte,8
-31cam3b,8
 CoderCODE2000,8
 DylanIsNice,8
 SwordFish16,8
@@ -2201,9 +2201,11 @@ DryBlah,8
 Cool_Coder_1587,8
 blue_stickman_mapf,8
 ABNFStudios,8
+-Cosmic---,8
 -CoolIguana-,8
 ap453316,8
 IceBlockStudios,8
+chocolate-froggy,8
 TheAutocorrectingCat,8
 josephineriel,8
 hypercode96,8
@@ -2690,12 +2692,10 @@ DragonPlusMaster,7
 JessTehMess,7
 shayneisnoice,7
 Osgler,7
--Cosmic---,7
 23mConnor,7
 Amazingfish8,7
 Goldking9,7
 PIXEL_BY_PIXEL_ERROR,7
-chocolate-froggy,7
 haasvi13,7
 Relyt32,7
 g7-behemoth,7
@@ -2726,6 +2726,7 @@ Coolguy323233,7
 Kosi_101O,7
 skixc,7
 beccamoons,7
+Dro7615,7
 763197,7
 aGenericC0der,7
 andrewjcole,6
@@ -3364,6 +3365,7 @@ FrogShaunYT,6
 Playstation_0,6
 deking0911,6
 TheInterneter,6
+Iubentium,6
 rizzfulls,6
 voidiaz,6
 danteg17214,6
@@ -3403,7 +3405,6 @@ chanclacreates,6
 UndErSWAPPPP,6
 TCLSCA,6
 adh-man,6
-Dro7615,6
 beansWithTheBeans,6
 tiryeldino32,6
 jens140,6
@@ -4145,6 +4146,7 @@ ohpishposh,5
 -snozzle-,5
 MineCodr,5
 mariomaster4444444,5
+scratcherevancats,5
 CuteKingPenguin,5
 TemmieSparkle23,5
 Coder046,5
@@ -4385,7 +4387,6 @@ Orcakayla,5
 gold_burger123,5
 TheOpalofTopaz,5
 TheLegendaryKnighty,5
-Iubentium,5
 GOATofalltime75,5
 geramihasfood,5
 Smorkity,5
@@ -4402,6 +4403,7 @@ monkethecoolguy,5
 Monevo,5
 Gradient-EXE,5
 snoopythe3,5
+SushiCat_75,5
 WofyWritesHugeRPBios,5
 OrbitCat,5
 user10234576,5
@@ -4411,6 +4413,7 @@ jwfshf,5
 core1223e,5
 Red-the-cool-guy,5
 TheFrogWhoLikesToast,5
+peashooter123123,5
 bash_9,5
 electrotrent,5
 masterdancerdoge,5
@@ -4438,6 +4441,7 @@ MalSalp,5
 _scratch-shark_,5
 lucaisbazooka2,5
 justjacob11,5
+_OtteryAnimatez_,5
 sparks,4
 shiguy101,4
 jvvg,4
@@ -5474,6 +5478,7 @@ m4-gg-13,4
 lsk-20171112,4
 zaid1442011,4
 Eggpelt,4
+FreshTheCat,4
 Xolay,4
 Juarez2010,4
 Eyosias_YT,4
@@ -5898,13 +5903,13 @@ WesternKeg,4
 a6l9e7x,4
 TacoMaster635,4
 mixdawgz12,4
-SushiCat_75,4
 wilyumm,4
 Weird0g1,4
 shatfield-mcp,4
 Zaydenbbbbbb,4
 -Lunamix-,4
 DevActive,4
+LOOP-GUY234,4
 PGG70,4
 _teh_armenian_,4
 DenAyaDan,4
@@ -7941,7 +7946,6 @@ FlashLeap,3
 champamatya,3
 projectmakerio,3
 E3elder,3
-scratcherevancats,3
 dannygreet2,3
 Darwin_Narwail,3
 Remixer2-0,3
@@ -8594,6 +8598,7 @@ tooteaching,3
 XDKosmosStartM,3
 LangTheDinosaur,3
 SpireOfOranges,3
+Zer0number0_Alts,3
 Noob_boi_2000,3
 Paper_M0NSTER,3
 CheesyTrap13,3
@@ -8637,7 +8642,6 @@ LuckKittyDragon,3
 10101Scratcher,3
 WhatWhoHowWhenWhy,3
 CHUBBY_BANANA_CAT,3
-LOOP-GUY234,3
 tsurumi12,3
 eisjo,3
 MG78334,3
@@ -8728,6 +8732,7 @@ Desolate-Penguin,3
 Droidnerdbear14,3
 Andy1gamer9999,3
 say_hii_alt,3
+unconstructable13,3
 UNO_REVERSE_PROMAX,3
 -DummyGames-,3
 hashTTTB,3
@@ -8780,6 +8785,8 @@ Olivesdude,3
 BDTNAB,3
 shareideas123456,3
 Schmidt304,3
+shadechannel,3
+TDuongZscratch,3
 stevetheipad,2
 cardinalland,2
 mintfang,2
@@ -12580,7 +12587,6 @@ sethkamanumitha,2
 dorne1,2
 CuteKitty6000,2
 TheRTXArtMaker,2
-FreshTheCat,2
 Codin_Queen222,2
 MoonROCK123,2
 alccoder,2
@@ -13671,6 +13677,7 @@ Dragapult_Dreepy,2
 cyberspere,2
 AaronBurr1800,2
 ComixUSA,2
+Fatboy_Matt,2
 Popcatlegend,2
 KirbyPoyoooo,2
 emmetlovesgames,2
@@ -14178,6 +14185,7 @@ qwertynhgft,2
 MarioJellyfish,2
 McNuggiesOfficial,2
 2Qube_,2
+MTpeashooter,2
 diepipis,2
 Mack34100,2
 -NoahField-,2
@@ -14218,6 +14226,7 @@ JanetandBonnieSphere,2
 jellyfingers14,2
 Loverofchoclate,2
 Sir_Potter_lV,2
+jamesfierro9563,2
 GoodTomanypeoples-17,2
 MadMaxPoWer,2
 Rakkoon_Guy,2
@@ -14251,6 +14260,7 @@ Mrpinksnail,2
 thehibernater,2
 CK0001,2
 GOOBBURRITO,2
+thebiteof87m,2
 philip0210,2
 _CyberCoreGirl2000_,2
 Tamatakiz,2
@@ -14266,7 +14276,6 @@ xta_14006,2
 MiketheRabbit,2
 what-is-that90,2
 ilovethenumber5555,2
-peashooter123123,2
 RUDE_Channel,2
 Mewarora,2
 Tgraw_and_Tgrae,2
@@ -14370,6 +14379,7 @@ i_like_cats2025,2
 Kasanebloxiance,2
 COLBear123,2
 jimmykingoflosserdev,2
+Ak0420,2
 ighata,2
 aluebbe911111,2
 Griffffffffff,2
@@ -14396,7 +14406,6 @@ broadwaygirl115,2
 Monic2494,2
 mrdolilio,2
 metroidvania12321,2
-unconstructable13,2
 hudmeister543,2
 jjspidermanmcqueen,2
 thedolphin_,2
@@ -14430,6 +14439,7 @@ Marmorsteinchen,2
 YJM10Pakwan_,2
 WindCoders9465,2
 -Alkiva-,2
+Yetiboyofdoom,2
 StaringComtest,2
 elvin8001,2
 TinySteve312,2
@@ -14442,6 +14452,7 @@ pippuri_kissa_koti,2
 Silence_Guy,2
 gammatestcomposer,2
 ElectromanDynamix,2
+ErosEdwards1,2
 CharPikMar,2
 Subaru_WRX_21,2
 username7685,2
@@ -14463,6 +14474,7 @@ Julesvernebeales,2
 GoldenDoors,2
 type_3_python,2
 blockedy,2
+navyapatel12,2
 pancakeken,2
 TeoProotTest,2
 D12studios,2
@@ -14471,22 +14483,30 @@ schew001,2
 agtihm,2
 AnikethTejaC,2
 TheRealTenna,2
+Supreme-Dev,2
 KF_pizza,2
 vtrickzv,2
 mira_the_moth,2
 JglitchGAMER,2
 stungplayz,2
 -Lycheewing-,2
+FountainPenPoet,2
 apaoknomore,2
 tevpack,2
 Bananacool32,2
+Demogorgon_is_cool,2
 MSAndeJ1,2
 TheReturnOfAIE,2
 10152693,2
 HatchingAndLearning,2
 SkycoPlays,2
+AnGam3r,2
 James51911,2
+ahumanwhoisbob,2
 wikireader,2
+world-of-nate,2
+ZcratcherDude123_,2
+Roserainbow0805,2
 JJROCKER,1
 technoboy10,1
 jji7skyline,1
@@ -29082,6 +29102,7 @@ scarysailor568,1
 ICYDINO17,1
 Turk3yTheRap1215,1
 scratch_ak1,1
+bananaevan,1
 Spyfi_me,1
 Elite-Pineapple,1
 HP_fan523,1
@@ -29261,7 +29282,6 @@ VisPi-PROGRAMMING,1
 JosephM5I,1
 Dhdfuhrifi,1
 -dot-to-dot24-,1
-Zer0number0_Alts,1
 Pal-OS,1
 Sir_Orchid,1
 PreppyLoraxx_,1
@@ -29303,7 +29323,6 @@ BlockNinja123,1
 OMGisogood,1
 Milky_Way222,1
 FireFighter_Herrick,1
-MTpeashooter,1
 vikusiakt,1
 AbsoluteZ-A,1
 boi341_,1
@@ -29472,6 +29491,7 @@ BloxyBryce,1
 boxperson-_-,1
 Whiplos,1
 scratchlover201403,1
+TweetytheBird93,1
 -DragonwolfPlayz,1
 roadtripworkshop,1
 AkaKingMag34,1
@@ -29610,6 +29630,7 @@ CarldaDawg,1
 The_Dogz_Collab,1
 user_85,1
 Huntermeme,1
+jairanfnf432,1
 theguymanpro,1
 spacescratchnugget,1
 Speedrunner702,1
@@ -29649,6 +29670,7 @@ cringegod246,1
 NeonGames7,1
 doomso27,1
 CR1T1C4L_Err0r,1
+Sube13579,1
 FROMTHESCREEN-,1
 gamemaker10243,1
 Shopmaker334,1
@@ -29916,7 +29938,6 @@ gregydingy2,1
 4657v7564,1
 Creator_Link02,1
 The_Blue_Cobra,1
-Ak0420,1
 tokage06282,1
 kaikai15kai15,1
 mazzzo1,1
@@ -30281,7 +30302,6 @@ TNT_BobbsND,1
 HmMmKuda_Alt,1
 aw7987,1
 OliveCone320944,1
-navyapatel12,1
 abraham93420,1
 Lettter_A,1
 hopeisurfriend,1
@@ -30300,6 +30320,7 @@ achruzek,1
 fishoblub,1
 20_15_13,1
 delantal34,1
+cookedasparagus8,1
 ToonJohn,1
 nregalado7234,1
 AamodhanaEswar,1
@@ -30336,19 +30357,19 @@ blueharbour,1
 FBIBOYYYYY,1
 Eagle262024,1
 liam_79140,1
-FountainPenPoet,1
 EBherobrine,1
 JAJQ81,1
+sam_is_7_2024,1
 Nijumet,1
 Swiftsparrow_WCUE,1
 ieatdirtsomuch,1
+AxyArcher,1
 Milky_Aviator_527,1
 Guest771,1
 vhaucktcsb,1
 pongov,1
 Faustimeras,1
 Thomasforlogos,1
-Demogorgon_is_cool,1
 Scratchman-1123,1
 Fennelstar-,1
 Htoi_ilikefood,1
@@ -30359,27 +30380,47 @@ coderkid1201,1
 wowkid123456,1
 Game_Kong,1
 TheEnderDragon_,1
-ahumanwhoisbob,1
 Doodle_Animations247,1
 meonsprunki,1
 softballpanther14,1
 nightingalewhocodes,1
 s97530andfriends,1
+--Scratch-Team-,1
 hdmiscratcher,1
 moldy_jeans,1
 sharkzar,1
 TnTB0OM,1
 Butterdog57,1
-world-of-nate,1
 icantremembrmyacount,1
 JOEYJOE0411,1
 agoodboy2822,1
 xXbanano_ADRIXx,1
+95_Theses_Enjoyer,1
 IceCubeIdioters,1
 ilovekeyborads,1
 09142233,1
-ZcratcherDude123_,1
 nutty548,1
 MyKenZ,1
 yakser765,1
 Jamd_Creates,1
+thefruityflavor,1
+Magicalcat3500,1
+nmosher32,1
+VsessaPlaysGAMING,1
+Bperezalberto,1
+wickedlawswitch,1
+semmrrr,1
+cheesey_70,1
+EATERcoder,1
+GoIdenCheese,1
+hi_therepeople,1
+Lucababy01,1
+95th_theses_enjoyer,1
+Copperwolf_EXTRA,1
+horace0313,1
+invertedworldofhugo,1
+flasnjr2,1
+bigbossinosuke422,1
+Prostopups,1
+wintercodesalot,1
+PwllhwliFCU8O_O,1

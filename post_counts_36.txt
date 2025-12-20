@@ -104,6 +104,7 @@ neofetch,3
 ghy02,3
 hafi_mimi,3
 noobieguythecoolguy,3
+drawtimeperson,3
 budichang,2
 diniatikasari,2
 juruseo,2
@@ -372,3 +373,4 @@ LinksHouse,1
 lionfield395,1
 Sabikuy,1
 IndosiarCoder,1
+algadya,1

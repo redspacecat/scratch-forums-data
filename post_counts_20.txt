@@ -12,8 +12,8 @@ ScratchCatDoMal,169
 OpEnSaDoR,165
 YgorDiery,157
 Joao_Ana,142
+Creator_GX,122
 alvaro13sonicexe,120
-Creator_GX,120
 Space-OFC,116
 Gato_preto_scratch,107
 vitorreverso,104
@@ -503,6 +503,7 @@ kaikefalcaoyt12ofc,3
 threegospel,3
 Robotto_alt,3
 kERED_iNOHT_nOITES,3
+Nathanzchrestani,3
 TheoScratcher2,3
 heitorBrazillindo,3
 vnikoofard,3
@@ -1518,7 +1519,6 @@ estamos12,1
 MariobrosDino007,1
 EuSouNADA-_-,1
 joaofloquinho,1
-Nathanzchrestani,1
 amongls,1
 Israeljogador,1
 Rabac2,1
@@ -1562,3 +1562,4 @@ DiogoGoisSantana,1
 KlebzinhoGamer,1
 heitorcsilva,1
 Alpha_GamesTech,1
+Er1ckrafa3l,1
