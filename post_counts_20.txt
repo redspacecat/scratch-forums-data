@@ -2,7 +2,7 @@ henrick9,1362
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
-PLAYER_H360,266
+PLAYER_H360,268
 ScratchCatDoBem,253
 mimikyuinkling,252
 -Cubism007-,251
@@ -34,8 +34,8 @@ Barba_PretaOriginal,60
 pedrodrocafranco,53
 davilindo2022,53
 Lakzil,52
+MultiverseMikaels,52
 taboa179,51
-MultiverseMikaels,51
 Dude_Producoes,48
 calango_22_,48
 AndreoliBR,43
@@ -111,6 +111,7 @@ Scratch_bugs,14
 cosmicinfinity,14
 thos-secundario,14
 Lilo5000,14
+dani665gt,14
 franciscoscratch,13
 Lazaro_Rafael,13
 soph_twin,13
@@ -129,7 +130,7 @@ godinho1,12
 oibetolino,12
 chach_ScuareCat,12
 lolo-ALT,12
-dani665gt,12
+hiiiimmateus,12
 10joaozinho10,11
 Benur21,11
 rafaelstanesco,11
@@ -146,7 +147,6 @@ carroqualquer,11
 Nenorzin,11
 kaelfofo,11
 trimnaAalopido,11
-hiiiimmateus,11
 fupi437,10
 martinking,10
 Pinguim10,10
@@ -228,6 +228,8 @@ Scratch-cat-do-bem2,7
 Rafael_Bagi123,7
 JooJNeeN,7
 Redthony2,7
+gand7c,7
+VerdeSlime1,7
 NoxSpooth,6
 raposita,6
 Leam_Milk,6
@@ -257,8 +259,7 @@ biibeebackagain,6
 -GonCal-,6
 oanimador2,6
 Salvasconcelos2014,6
-gand7c,6
-VerdeSlime1,6
+Nathanzchrestani,6
 PrincessPanda_test_,5
 Josimarjunior,5
 meringo,5
@@ -503,7 +504,6 @@ kaikefalcaoyt12ofc,3
 threegospel,3
 Robotto_alt,3
 kERED_iNOHT_nOITES,3
-Nathanzchrestani,3
 TheoScratcher2,3
 heitorBrazillindo,3
 vnikoofard,3
@@ -1563,3 +1563,4 @@ KlebzinhoGamer,1
 heitorcsilva,1
 Alpha_GamesTech,1
 Er1ckrafa3l,1
+vitorhugo2004,1
