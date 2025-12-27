@@ -101,6 +101,7 @@ AC_CS3,7
 50_scratch_tabs,7
 scratch_tiger55,7
 seregaxp2015,7
+pishi-ai,7
 learnegy,6
 Jonathan50,6
 mytie,6
@@ -139,7 +140,6 @@ tDawn,6
 Magudragon,6
 weeeeeeeyay5,6
 dont_forget_flipnote,6
-pishi-ai,6
 hfj333,5
 QuillzToxic,5
 wkelly42,5
@@ -534,6 +534,7 @@ overdrive_g,3
 Travis_isaSigma,3
 kahyreedre,3
 FroggyRaptor,3
+DanDanbingobam,3
 Epicness123,2
 turkey3,2
 fetchydog567,2
@@ -1018,6 +1019,7 @@ beansWithTheBeans,2
 ScratchUSSR,2
 SWEMA,2
 drawtimeperson,2
+Graphicalpunch,2
 JJROCKER,1
 stevetheipad,1
 sparks,1

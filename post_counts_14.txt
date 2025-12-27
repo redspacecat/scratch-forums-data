@@ -173,6 +173,7 @@ ChicoTecnologico,15
 Montytfe,15
 3Edev,15
 ayudagente2013,15
+ENRIQUERO_131,15
 technoguyx,14
 clash_of_cris,14
 Fabi-games,14
@@ -203,6 +204,7 @@ MeGustaElTocino,13
 martin666001,13
 AlguienContento,13
 tomygam,13
+MATEOPR_131,13
 ubarrahm,12
 armique,12
 arman516,12
@@ -461,8 +463,6 @@ Tomas_Super_Crack,7
 daviicausey,7
 Criss_Mistakes,7
 golden879_fan,7
-ENRIQUERO_131,7
-MATEOPR_131,7
 LiFaytheGoblin,6
 elfin8er,6
 magoman80,6
@@ -4392,3 +4392,6 @@ sprunk123inma123,1
 XProgrammer47,1
 chanchoquevuela,1
 fabiomane14,1
+arolcas1204,1
+GonzaloBrizuela,1
+Martin2020JuegaNuevo,1

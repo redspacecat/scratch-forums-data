@@ -17,7 +17,7 @@ frodewin,276
 AsterixDavid,268
 KROKOBIL,266
 fixundlos,237
-Lichtrebell,233
+Lichtrebell,236
 Benni2007,226
 mybearworld,195
 Litu-1,195
@@ -41,9 +41,9 @@ Drachenbauer,114
 _O_GAMES_,108
 Simm162,105
 Fressraupe,103
+Tunibal_Scratcher,101
 Sandro318,100
-Scratch_NT,97
-Tunibal_Scratcher,96
+Scratch_NT,98
 Noxxer,94
 schoeneBiene,92
 MasterCodiererNeil,92
@@ -133,6 +133,7 @@ Robby_Blue,25
 Jakob10,24
 happyturtle5,24
 JohnSmith25,24
+winxp-9002,24
 Schlafhase,24
 DamiCode2,24
 Drummer315,24
@@ -142,7 +143,6 @@ superkrass,23
 Anatoltschki,23
 Korus,22
 winxp-8002,22
-winxp-9002,22
 Schattijr,22
 Piffi,21
 spirou201,21
@@ -234,11 +234,13 @@ SM-OS,13
 NoBi-ThE-SoLo-MaStEr,13
 TheScratchBoy_HD,13
 MRTsystemsuser22,13
+5u74,13
 Lucafritzen,13
 emillan3u,13
 _L_o_g_o_,13
 amod03,13
 aekc24,13
+hannesrucker,13
 Harakou,12
 G-ForceGames,12
 noobeater,12
@@ -262,6 +264,7 @@ waltninja123,12
 per_gaming,12
 eisjo,12
 lolololg6,12
+Norbiss,12
 Janstand,11
 -Spielprogrammierer,11
 winulatorxd,11
@@ -278,7 +281,6 @@ JustTbear,11
 Freie_Skripte,11
 LovelyRocky,11
 sputnic2010,11
-5u74,11
 Robert-Rafael,11
 Patrick87887,11
 Trompeter05,11
@@ -305,8 +307,6 @@ WindowsHilfe,10
 reto92,10
 scratcheule_AVSome,10
 DonatQueen11,10
-Norbiss,10
-hannesrucker,10
 the_SKRETSCHA,9
 QuanPex,9
 Monoi2010,9
@@ -2105,3 +2105,5 @@ GFI01,1
 WAStarpro,1
 Tii2_test,1
 Herka18,1
+JON-IGEL1190,1
+ScratchFan500500,1

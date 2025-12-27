@@ -886,6 +886,7 @@ Biker2000,1
 Steve_Knight,1
 scratcher1679,1
 UndercoverTroll,1
+ma007rio,1
 Oswald-116,1
 BlackDemonGirl,1
 Mike_1000,1
@@ -997,6 +998,7 @@ Scratch--TheCat,1
 henhenboben,1
 rojam041113,1
 qqjonson1234,1
+Digerisfan,1
 PinkPenguin100,1
 arora_borealis,1
 liamdvd,1
@@ -1165,3 +1167,4 @@ SWEMA,1
 FireDude520,1
 greenbeannumber1,1
 megatopher,1
+Z01K2,1

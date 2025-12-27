@@ -778,6 +778,7 @@ Kacperczuh_Pospolity,4
 lll256,4
 dollar2022,4
 tochenciyj007,4
+MarysiaR1000,4
 kbajdgdgh7,4
 wokarol,3
 maglush55,3
@@ -995,7 +996,6 @@ MuzLors234,3
 pilkasuper,3
 GigantKacper2024,3
 Adamskip131,3
-MarysiaR1000,3
 leo06140,3
 DJ7P,3
 Buroki,3
@@ -1425,6 +1425,7 @@ Miko5412,2
 Sobaka2022,2
 CreatoreqA,2
 Ciuchciak2014,2
+Norbiss,2
 RoomsButDoors200,2
 virtualGrind,2
 dawniej-gvhjchh678w,2
@@ -2562,7 +2563,6 @@ tomek-programista,1
 D14MK,1
 Keliacat,1
 DoriNotADev,1
-Norbiss,1
 maly16pep,1
 OlaR1000,1
 alang2013,1

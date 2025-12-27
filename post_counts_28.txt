@@ -26,6 +26,7 @@ mybearworld,18
 dabus1102,16
 congyingzhou,16
 4a2stt21,16
+reigngreymorton,16
 nins12ripmc,15
 SonicFanX123_321,15
 Aneri9714,15
@@ -42,7 +43,6 @@ han614698,12
 StrongPeanut,12
 Miggy6695,12
 lnecel,12
-reigngreymorton,12
 Mewly,11
 ZaharaMar,11
 Poteto143,11
@@ -1304,5 +1304,6 @@ KingChester14,1
 ismellamongus,1
 pea8shot_,1
 MedaaAAV,1
+leozoid,1
 BenjiArchive,1
 Builder_scratcher,1

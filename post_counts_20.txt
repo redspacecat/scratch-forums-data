@@ -56,9 +56,9 @@ gui7814,34
 MaryMel10,34
 murlohhhhu,33
 Lucas28042014,32
+gatorgb2808,30
 LeoLegal,29
 mcqueen95guianimoby,29
-gatorgb2808,29
 soltocaraa,29
 davisteffens,28
 Bacteria999,27
@@ -480,6 +480,7 @@ SavioPessoaAfonso,3
 theofariap,3
 ninjadosqueijos,3
 pessoa4263,3
+helloimnob,3
 leo-45,3
 Jesachs01,3
 Froggie136,3
@@ -773,6 +774,7 @@ jamalito15,2
 thalesc,2
 zinho1010,2
 oi4535,2
+ZenYeager,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1564,3 +1566,4 @@ heitorcsilva,1
 Alpha_GamesTech,1
 Er1ckrafa3l,1
 vitorhugo2004,1
+galaxystarpower7,1
