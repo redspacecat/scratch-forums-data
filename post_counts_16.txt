@@ -25,7 +25,7 @@ ckluo,109
 XHG78999,106
 scratchsucker02,105
 Jrojro,100
-scratchinghead,97
+scratchinghead,98
 TwilightSparkleLover,97
 chara-HI,94
 zhengjinyi,90
@@ -115,8 +115,8 @@ imsuperfish,30
 KeepInventory,30
 z123w,30
 ryw401,30
+ghgfh54,30
 liuzhiyu2020,29
-ghgfh54,29
 jackiesogi,27
 shuolu,27
 933451,26
@@ -133,6 +133,7 @@ titlle,24
 TerryMoo,24
 clay_jj_anna,24
 _DY-leo,24
+KevinOVO,24
 86scratch68,23
 xiaosun256china,23
 wyes10850409,23
@@ -167,7 +168,6 @@ MarioMok,20
 neilcui-edu,20
 pyrzkwok,20
 barry0826,20
-KevinOVO,20
 bradybrady,19
 seawideyp,19
 Hex4Nova,19
@@ -266,6 +266,7 @@ mojidinosaur,12
 longlong2011,12
 Ta_chan,12
 tasuka_king-tsio,12
+bruce141022,12
 Harakou,11
 jimmy1234567890,11
 1765255537,11
@@ -1374,7 +1375,6 @@ HCJSCT,2
 npg-p15690,2
 tw_scratch0245,2
 chemburgthegreat,2
-bruce141022,2
 no555555,2
 wyes11007,2
 w-owns,2
@@ -2807,3 +2807,4 @@ HARRYBARRY999,1
 Advik57,1
 anhappy1,1
 MarusVIP,1
+5C1AdrianAu,1

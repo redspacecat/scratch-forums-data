@@ -12,8 +12,8 @@ Harakou,39
 LiFaytheGoblin,37
 inoking,36
 TheHockeyist,33
+Paddle2See,32
 -ElectronicArts-,32
-Paddle2See,31
 Dmith,30
 R4356th,28
 Fluffygamer_,28
@@ -1307,3 +1307,5 @@ MedaaAAV,1
 leozoid,1
 BenjiArchive,1
 Builder_scratcher,1
+Alpay2019,1
+YBSF2319,1
