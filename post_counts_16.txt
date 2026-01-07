@@ -128,12 +128,12 @@ BaiChai_Mark,25
 Pony0101,25
 Sevently2021,25
 Eason_9,25
+KevinOVO,25
 titlle,24
 --B---R--A--V--E--,24
 TerryMoo,24
 clay_jj_anna,24
 _DY-leo,24
-KevinOVO,24
 86scratch68,23
 xiaosun256china,23
 wyes10850409,23
@@ -212,6 +212,7 @@ Louiesun_Chinese,16
 de_Wong,16
 _DY-game,16
 hca-20084,16
+bruce141022,16
 dnz0211,15
 Qtony,15
 3D3D3D3D,15
@@ -266,7 +267,6 @@ mojidinosaur,12
 longlong2011,12
 Ta_chan,12
 tasuka_king-tsio,12
-bruce141022,12
 Harakou,11
 jimmy1234567890,11
 1765255537,11
@@ -2802,9 +2802,11 @@ Aidenwu2015,1
 gojox23,1
 IVAN_PENG,1
 howard620,1
+OurDANV,1
 liyoulileo,1
 HARRYBARRY999,1
 Advik57,1
 anhappy1,1
 MarusVIP,1
 5C1AdrianAu,1
+Andy0226tw,1

@@ -122,6 +122,7 @@ dylan-space,28
 legojuho0302,28
 jewen,27
 Newjeans_lover,27
+jw31415,27
 DaeGwangGames,26
 Retonbie,26
 inamanag,26
@@ -135,7 +136,6 @@ gameman2011,25
 CTTG,25
 Sally_J,25
 scratchengieer,25
-jw31415,25
 jackwing,24
 seol7523,24
 SnowedBerry,24
@@ -152,13 +152,13 @@ kshedu,21
 K_kjj,21
 mindol2010,21
 mzk1017,21
+tureas,21
 kangminseo,20
 habiki3108,20
 369369124,20
 Kelly0113,20
 euncat001,20
 ehdbsqkr,20
-tureas,20
 aiden05,19
 teo8618,19
 20091222-2007,19
@@ -592,6 +592,7 @@ jibang1,5
 nohjh123,5
 mono8810,5
 sgg10402,5
+udontknowhowiam,5
 Harakou,4
 sg0236,4
 danny321,4
@@ -721,7 +722,6 @@ leo06140,4
 MegaSouthKoreaBall,4
 mario_rr11,4
 pch10033008,4
-udontknowhowiam,4
 Deft09_,4
 moonzzang,3
 Neulbo,3

@@ -51,6 +51,7 @@ cosmosaura,5
 DavidDev1,5
 beddercheder,5
 PRODESERVER,5
+kuromi1817,5
 Top99hop,5
 Catscratcher07,4
 WindowsAdmin,4
@@ -82,7 +83,6 @@ ui178,4
 conicocos,4
 Isaac_0203,4
 mellon_kid1,4
-kuromi1817,4
 LionHeart70,3
 Wahsp,3
 Sali2008,3
@@ -508,3 +508,5 @@ luqjaguar9,1
 lebronbon67,1
 mmmmva2,1
 Kittyqueen0909,1
+rithvikrithvik,1
+StickTheAnimator_,1

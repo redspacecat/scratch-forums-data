@@ -52,7 +52,7 @@ windows-ubuntu,63
 PANNAPTI1official,59
 floppy130508,58
 ddavid__,56
-der400,55
+der400,56
 kati2007,51
 Stracchino10,50
 SPAGHETTIISALIE,49
@@ -507,6 +507,7 @@ BongoScratch23,3
 colonel_white,3
 BluddyTV,3
 WindowsScratch75,3
+Squirly_Pik22,3
 il_nuovissimo_sam,3
 elia_silicani,3
 gigimergigi,3
@@ -1349,7 +1350,6 @@ Retro_Scrathcer,1
 lesphenry-31,1
 HappyCookiesCoder,1
 VIP_Gamers,1
-Squirly_Pik22,1
 kingpeytonifx,1
 TheBoomGames,1
 pitchproductions,1

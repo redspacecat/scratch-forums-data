@@ -16,7 +16,7 @@ easyScratcher,299
 frodewin,276
 AsterixDavid,268
 KROKOBIL,267
-Lichtrebell,238
+Lichtrebell,239
 fixundlos,237
 Benni2007,226
 mybearworld,195
@@ -39,11 +39,11 @@ Omania1,126
 akhof,124
 Drachenbauer,114
 _O_GAMES_,108
+Tunibal_Scratcher,108
 Simm162,105
-Tunibal_Scratcher,104
 Fressraupe,103
 Sandro318,100
-Scratch_NT,99
+Scratch_NT,100
 Noxxer,94
 schoeneBiene,92
 MasterCodiererNeil,92
@@ -125,6 +125,7 @@ EIKI,27
 Celefant_art,27
 sparks,26
 win2k,26
+winxp-9002,26
 -benja-,26
 Postbote08,26
 wolfnet,26
@@ -133,7 +134,6 @@ Robby_Blue,25
 Jakob10,24
 happyturtle5,24
 JohnSmith25,24
-winxp-9002,24
 Schlafhase,24
 DamiCode2,24
 Drummer315,24
@@ -1182,6 +1182,7 @@ MasterWu1-2,2
 JeffreyChat,2
 JaspertheGamer23,2
 Zweipupser,2
+Zoomy_,2
 roijac,1
 curiouscrab,1
 taddl,1
@@ -2108,3 +2109,5 @@ Herka18,1
 JON-IGEL1190,1
 ScratchFan500500,1
 RoseSplasch,1
+Enno2016,1
+OpaBu,1

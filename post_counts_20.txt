@@ -1,4 +1,4 @@
-henrick9,1362
+henrick9,1364
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
@@ -103,6 +103,7 @@ Pixelinho,15
 SonoHi,15
 -Laura-ap_Scratch-,15
 Bardo1900,15
+dani665gt,15
 Maujoa-Minecraft,14
 jackson958,14
 Cookie_Player,14
@@ -111,7 +112,8 @@ Scratch_bugs,14
 cosmicinfinity,14
 thos-secundario,14
 Lilo5000,14
-dani665gt,14
+joseousejajoao,14
+sonicminions_123,14
 franciscoscratch,13
 Lazaro_Rafael,13
 soph_twin,13
@@ -127,6 +129,7 @@ adrianalaskowski,12
 Robloxian_UPDATE,12
 FunnyPotato452,12
 godinho1,12
+MiguelMassolaEDU,12
 oibetolino,12
 chach_ScuareCat,12
 lolo-ALT,12
@@ -142,7 +145,6 @@ gato_chato-com-br,11
 anaflavinha,11
 BaPaCaDa_creat,11
 PixelArt_Gamers,11
-joseousejajoao,11
 carroqualquer,11
 Nenorzin,11
 kaelfofo,11
@@ -316,6 +318,7 @@ arthur35498,5
 LUKCEIDE,5
 Bola65Top,5
 lulisb,5
+pedrodev2025,5
 Pitusky12,4
 hermanne,4
 barichello,4
@@ -509,6 +512,7 @@ TheoScratcher2,3
 heitorBrazillindo,3
 gaalex16,3
 vnikoofard,3
+randomProgammerbr,3
 Maju14Kitty,3
 vitorhugo2004,3
 cheddargirl,2
@@ -773,7 +777,6 @@ rafaelly1234cat,2
 IncrediboxMods1,2
 jamalito15,2
 thalesc,2
-randomProgammerbr,2
 zinho1010,2
 oi4535,2
 ZenYeager,2
@@ -1568,4 +1571,4 @@ heitorcsilva,1
 Alpha_GamesTech,1
 Er1ckrafa3l,1
 galaxystarpower7,1
-pedrodev2025,1
+sharkuniverse_alt,1
