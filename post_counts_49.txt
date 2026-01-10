@@ -482,6 +482,7 @@ dizzyboy42,2
 supremedev12,2
 32BuchAl,2
 GRUBGRUBGRUB,2
+ModSquadAcademy,2
 zorket,1
 MrFlash67,1
 chacharosie8888,1
@@ -1091,6 +1092,7 @@ JSAW27,1
 BlueyFan75000,1
 -ThatOneGuitarist-,1
 7Phyzon,1
+CaptFrIEdshrimp,1
 jelte1908,1
 happydog890,1
 ZzSays_Season1,1
@@ -1173,4 +1175,3 @@ greenbeannumber1,1
 megatopher,1
 DefNotYarrow,1
 Z01K2,1
-ModSquadAcademy,1

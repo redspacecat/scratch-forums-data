@@ -38,8 +38,8 @@ HoneyPaw,128
 Omania1,126
 akhof,124
 Drachenbauer,114
+Tunibal_Scratcher,113
 _O_GAMES_,108
-Tunibal_Scratcher,108
 Simm162,105
 Fressraupe,103
 Sandro318,100
@@ -528,6 +528,7 @@ BikerAlt,5
 maker_mind,5
 Ginny___Potter,5
 bullseyesGaming,5
+tol_2012,5
 mschlager,4
 water_kangaroo11,4
 ZeroLuck,4
@@ -1182,6 +1183,7 @@ MasterWu1-2,2
 JeffreyChat,2
 JaspertheGamer23,2
 Zweipupser,2
+Enno2016,2
 Zoomy_,2
 roijac,1
 curiouscrab,1
@@ -2109,5 +2111,7 @@ Herka18,1
 JON-IGEL1190,1
 ScratchFan500500,1
 RoseSplasch,1
-Enno2016,1
 OpaBu,1
+DeepFriedCat1,1
+leoseidl,1
+GitaGamer,1

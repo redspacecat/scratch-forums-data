@@ -990,6 +990,7 @@ MudkipKappa,2
 Code__Mouse,2
 Heresthedriver,2
 paullet,2
+CaptFrIEdshrimp,2
 leog20162,2
 Steve26009_New,2
 santino-cavazos,2
@@ -2800,7 +2801,6 @@ lemurcoffey,1
 zeldadesoryer,1
 cute_stuff_,1
 zaidputrajaya,1
-CaptFrIEdshrimp,1
 Lasdero,1
 jmdzti_0-0,1
 sunlight_zone,1
@@ -2894,6 +2894,7 @@ Ty-Kyota,1
 Lpea42,1
 thecoolscrachcat33,1
 ReuTestBen,1
+Norbiss,1
 Julesvernebeales,1
 Vsevolod73,1
 happycat154939,1
@@ -2907,3 +2908,5 @@ buifuweihfewiu,1
 scratchplayer123467,1
 601tk21,1
 Lunarbugz,1
+koodariopemh,1
+glitchgang,1

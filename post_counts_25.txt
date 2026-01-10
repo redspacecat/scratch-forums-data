@@ -170,6 +170,7 @@ erencemaltay,11
 masallah_kodluyorum,11
 AlperTEAMoffical,11
 EgemenUtangan2015,11
+toyk,11
 Danger07,10
 Sezdolonoid,10
 SaycoMaker_TR,10
@@ -186,7 +187,6 @@ BrownCarrot_,10
 BritneyILoVeU,10
 ancyrsa,10
 1905_alp,10
-toyk,10
 ezeliveba,9
 MrAdmin,9
 MClovers,9
@@ -249,6 +249,7 @@ adimwhat,7
 _mertyungul61_,7
 windows_code,7
 stevengerrard28,7
+lattesiber,7
 ibo_ucatli,7
 kaptan,6
 blackgamers,6
@@ -329,7 +330,6 @@ brk2342,5
 veysel06proo,5
 KawazakiOS,5
 umutbabapiro201316,5
-lattesiber,5
 winxbarbie,4
 enderrrr1,4
 arinbulut06,4
@@ -766,6 +766,7 @@ AliCool_TekrarTekrar,2
 85_UGABUGA_85,2
 -_NovaOS_-,2
 a_y_iscioglu,2
+HezBuilder72,2
 LiFaytheGoblin,1
 hakanatas,1
 gbugut,1

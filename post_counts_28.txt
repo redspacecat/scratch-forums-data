@@ -16,8 +16,8 @@ Paddle2See,32
 -ElectronicArts-,32
 Dmith,30
 R4356th,28
+Thiago_le_meilleur,28
 Fluffygamer_,28
-Thiago_le_meilleur,27
 Nathanator1416J,23
 kayybee,20
 sdmeijer,19
@@ -515,6 +515,7 @@ Saifan2014,2
 drdegree1237,2
 Airbus_PilotA350,2
 player3676,2
+TurboTig,2
 Dlab52-12,2
 TheGeographyNerd,2
 Rickythegermanboi,2
@@ -1259,7 +1260,6 @@ Energyly,1
 SkyCedar,1
 gyakuhonyakusss2,1
 turmadoraio,1
-TurboTig,1
 The-best101,1
 Eliplayer2,1
 MadiMakingGames,1
@@ -1304,6 +1304,7 @@ CodeWaveSurfer,1
 bokiboranijasevic,1
 KingChester14,1
 ismellamongus,1
+cookedasparagus8,1
 pea8shot_,1
 MedaaAAV,1
 leozoid,1
@@ -1313,3 +1314,4 @@ Alpay2019,1
 YBSF2319,1
 MinecraftNScratchFan,1
 ShadowLillies,1
+Erasthegamer670,1
