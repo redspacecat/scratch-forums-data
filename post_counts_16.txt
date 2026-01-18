@@ -592,6 +592,7 @@ lkws191089,5
 scr21013780,5
 Kid-bluey,5
 kuromi5038,5
+SuperEdisonGames,5
 eniac2008,4
 hudixiaoxue,4
 Domon-poppy,4
@@ -1380,7 +1381,6 @@ wyes11007,2
 w-owns,2
 Rai_5657,2
 gotui-semi,2
-SuperEdisonGames,2
 yles107002-new,2
 GameHutSoftware,1
 Epicness123,1

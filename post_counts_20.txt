@@ -1,9 +1,9 @@
-henrick9,1364
+henrick9,1368
 Fupicat,1294
 AdrielCrafter,551
 kdmuriscratch,339
-PLAYER_H360,271
-ScratchCatDoBem,253
+PLAYER_H360,272
+ScratchCatDoBem,255
 mimikyuinkling,252
 -Cubism007-,251
 Backto2011,248
@@ -75,11 +75,11 @@ aleiluia,23
 RICARDOJUNIOR123,23
 binario010101,22
 LihAnima,22
+GAMEMAKERPV,22
 ScratchMix123,20
 G-Flame,20
 TheToonCoder,19
 Tankmandadoriginal,19
-GAMEMAKERPV,19
 Neon12345,18
 bibifumaca,18
 pedroGAMES2011,18
@@ -97,6 +97,7 @@ Vitou_,16
 XxMarcos_,16
 Henriquebm12,16
 boloniaepedro2011,16
+joseousejajoao,16
 VINICIUSCORREIAgal,16
 dani665gt,16
 FelipeGamescom,15
@@ -104,7 +105,6 @@ Pixelinho,15
 SonoHi,15
 -Laura-ap_Scratch-,15
 Bardo1900,15
-joseousejajoao,15
 Maujoa-Minecraft,14
 jackson958,14
 Cookie_Player,14
@@ -309,6 +309,7 @@ cosmosaura,5
 robertops2,5
 Robloxiano2014,5
 whiskas_carolina,5
+revolutioncreative,5
 lipitic,5
 SAADAstudios,5
 BlueGames300,5
@@ -515,6 +516,7 @@ vnikoofard,3
 randomProgammerbr,3
 Maju14Kitty,3
 vitorhugo2004,3
+wolff306,3
 cheddargirl,2
 DIY,2
 ErnieParke,2
@@ -780,7 +782,6 @@ thalesc,2
 zinho1010,2
 oi4535,2
 ZenYeager,2
-wolff306,2
 scimonster,1
 Zro716,1
 pacica,1
@@ -1412,7 +1413,6 @@ Mikio_0010,1
 M4rkim110,1
 Progaminer,1
 Osmond1654,1
-revolutioncreative,1
 Mist3rD,1
 Isabellae6b,1
 gaivotasme,1
@@ -1573,3 +1573,5 @@ Alpha_GamesTech,1
 Er1ckrafa3l,1
 galaxystarpower7,1
 sharkuniverse_alt,1
+starveil,1
+Bugzin-xD,1

@@ -14,9 +14,9 @@ Dreche,314
 webdesigner97,305
 easyScratcher,299
 frodewin,276
+KROKOBIL,270
 AsterixDavid,268
-KROKOBIL,267
-Lichtrebell,239
+Lichtrebell,242
 fixundlos,237
 Benni2007,226
 mybearworld,195
@@ -37,8 +37,8 @@ Maxnet,133
 HoneyPaw,128
 Omania1,126
 akhof,124
+Tunibal_Scratcher,116
 Drachenbauer,114
-Tunibal_Scratcher,113
 _O_GAMES_,108
 Simm162,105
 Fressraupe,103
@@ -101,8 +101,8 @@ allph,36
 MT_3000,36
 Leo-Tierverlag_Progr,36
 m_j_scratcher,36
+SBAfan_and_more21,36
 TOOLS2000,35
-SBAfan_and_more21,35
 MartinWollenweber,34
 Xamrica,34
 pyscratcher,34
@@ -121,11 +121,11 @@ opti1,29
 scratch978654,29
 Buddy60,28
 EIKI,27
+winxp-9002,27
 4trew,27
 Celefant_art,27
 sparks,26
 win2k,26
-winxp-9002,26
 -benja-,26
 Postbote08,26
 wolfnet,26
@@ -225,6 +225,7 @@ Maus0000,14
 milakatze123,14
 Ramses-1,14
 roblox_gamer2014,14
+hannesrucker,14
 The_Tee,13
 GHeim,13
 aniolek,13
@@ -240,7 +241,6 @@ emillan3u,13
 _L_o_g_o_,13
 amod03,13
 aekc24,13
-hannesrucker,13
 Harakou,12
 G-ForceGames,12
 noobeater,12
@@ -805,6 +805,7 @@ EundJ,3
 U-A-M-Firma,3
 Firearehot,3
 bennono14,3
+Lev-Cherniavskyi,3
 DIY,2
 TenYoung,2
 scubajerry,2
@@ -2103,7 +2104,6 @@ crafting_codes145,1
 Dattelya,1
 martin_k1980,1
 8a_DMS_22,1
-Lev-Cherniavskyi,1
 GFI01,1
 WAStarpro,1
 Tii2_test,1
@@ -2115,3 +2115,5 @@ OpaBu,1
 DeepFriedCat1,1
 leoseidl,1
 GitaGamer,1
+BitcoinFarmer,1
+imnotcompetent,1

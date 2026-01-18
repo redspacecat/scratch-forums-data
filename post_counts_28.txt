@@ -15,8 +15,8 @@ TheHockeyist,33
 Paddle2See,32
 -ElectronicArts-,32
 Dmith,30
+Thiago_le_meilleur,29
 R4356th,28
-Thiago_le_meilleur,28
 Fluffygamer_,28
 Nathanator1416J,23
 kayybee,20
@@ -51,12 +51,12 @@ Arqwa,11
 qurlay,11
 kouryou118103,11
 alboxer2000,11
+cosmosaura,11
 Scratchtheguy1,11
 Opisek,10
 Elephant71,10
 PSstarindia776,10
 futon0912,10
-cosmosaura,10
 Piaulo46,10
 U-Y-Scratch,10
 tcodina,9
@@ -96,6 +96,7 @@ Barthdry,7
 wilhelm43,7
 AarushPoddar10000,7
 jaiar14,7
+yooreekthecool,7
 mathfreak231,6
 mobluse,6
 nallie,6
@@ -1305,6 +1306,7 @@ bokiboranijasevic,1
 KingChester14,1
 ismellamongus,1
 cookedasparagus8,1
+hiimjamesp,1
 pea8shot_,1
 MedaaAAV,1
 leozoid,1
@@ -1315,3 +1317,5 @@ YBSF2319,1
 MinecraftNScratchFan,1
 ShadowLillies,1
 Erasthegamer670,1
+Ban_Securly204,1
+Joshipants,1

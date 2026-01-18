@@ -251,6 +251,7 @@ _0xfffrog-,3
 -WildFireStudios-,3
 Reyuscratch,3
 AceTheGamer444,3
+ModSquadAcademy,3
 LiFaytheGoblin,2
 cobraguy,2
 scratchisthebest,2
@@ -482,7 +483,6 @@ dizzyboy42,2
 supremedev12,2
 32BuchAl,2
 GRUBGRUBGRUB,2
-ModSquadAcademy,2
 zorket,1
 MrFlash67,1
 chacharosie8888,1
@@ -1156,6 +1156,7 @@ rareredx,1
 retro2D,1
 JInx_Creates,1
 MOFEABI,1
+cappu1,1
 Qwerty94Uiop,1
 sprunkifan2007,1
 KingCayen011-ALT,1
