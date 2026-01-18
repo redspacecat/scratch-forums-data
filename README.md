@@ -1,3 +1,5 @@
+## NOTE: THIS IS OUTDATED. Check out [ScratchPost](https://github.com/redspacecat/scratchpost) instead.
+
 This repository has the code that fetches new posts for Scratch Info's forum leaderboard rankings and post history. (https://scratchinfo.quuq.dev/forums)
 
 The leaderboards have to be updated manually by me. I will try to do it every few days to weeks, but it might be a bit delayed.
